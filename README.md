@@ -4,22 +4,22 @@
 Bryan Denq, Olu Barbar, Sulman Choudhary, Kristina Mulholland
 
 ## Description:  
-We will investigate relationships between Covid-19 and select respiratory, close contact, and blood borne illnesses.  
+We will investigate relationships between Covid-19, mask mandates and select respiratory, close contact, and blood borne illnesses.  
 
 
 ## Research Questions:
 
 ~How did Covid-19 epidemic affect the selected disease groups (respiratory, close contact, blood borne)?
 
+~What is the relationship between Covid rates and length of Mask Mandates?
+~How did Covid epidemic affect respiratory infections (Flu)?
 
-~How did Covid epidemic affect respiratory infections (Pertussis & Flu)?
+~How did Covid epidemic affect close contact, non respiratory infections (E. Coli)?
 
-~How did Covid epidemic affect close contact, non respiratory infections (E. Coli & Meningitis)?
-
-~How did Covid epidemic affect blood borne infections (Lymes Disease & Hepatitis)?
+~How did Covid epidemic affect blood borne infections (Lyme Disease)?
 
 
-~What is the relationship between mask protocols and infection rates (respiratory, contact, blood borne)?
+~What is the relationship between Covid infection rates and infection rates of other diseases (respiratory, contact, blood borne)?
 
 ## Data Sets:
 https://data.cdc.gov/browse?tags=mask+mandates
@@ -57,58 +57,19 @@ Bryan: Mask mandates by state within time frame with visualizations
 Sulman: Respiratory: Individual disease analysis with visualizations 
 
 	Infection Rates Over Time (US)
-	
-	Infection Rate for State (top 10, bottom 10)
-	
-	Regression Rate
-	
-	Correlation to Covid Rates 
+    Infection Rates Per Year 
+	Covid vs Respiratory Infection Rate for State (top 10, bottom 10)
 	
 Kristina: Close Contact: Individual disease analysis with visualizations 
 
-	Infection Rates Over Time (US)
-	
-	Infection Rate for State (top 10, bottom 10)
-	
-	Regression Rate
-	
-	Correlation to Covid Rates 
+    Infection Rates Over Time (US)
+    Infection Rates Per Year 
+    Covid vs Respiratory Infection Rate for State (top 10, bottom 10)
 	
 Olu: Blood Borne: Individual disease analysis with visualizations
 
-	Infection Rates Over Time (US)
-	
-	Infection Rate for State (for comparison to Mask Mandates)
-	
-	Infection Rate for State (top 10, bottom 10)
-	
-	Regression Rate
-	
-	Correlation to Covid Rates 
+    Infection Rates Over Time (US)
+    Infection Rates Per Year 
+    Covid vs Respiratory Infection Rate for State (top 10, bottom 10)
 
-Top 10 States of mask usage (estimated, not set in stone)
 
-New York
-Massachusetts
-New Jersey
-Delaware
-Connecticut
-Virginia
-Rhode Island
-Maine
-Michigan
-Illinois
-New Mexico
-
-Bottom 10 States of mask usage (estimated, not set in stone)
-
-Florida
-Georgia
-South Carolina
-Tennessee
-Montana
-Oklahoma
-South Dakota
-Wyoming
-Idaho
-Arizona

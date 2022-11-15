@@ -1,0 +1,3670 @@
+STATEFP,NAME,STUSPS,YEAR,MONTH,RATE
+1,Alabama,AL,2016,January,2.888904296
+1,Alabama,AL,2016,February,4.044466015
+1,Alabama,AL,2016,March,6.355589452
+1,Alabama,AL,2016,April,4.044466015
+1,Alabama,AL,2016,May,5.777808593
+1,Alabama,AL,2016,June,6.933370311
+1,Alabama,AL,2016,July,6.933370311
+1,Alabama,AL,2016,August,4.044466015
+1,Alabama,AL,2016,September,5.200027733
+1,Alabama,AL,2016,October,3.466685156
+1,Alabama,AL,2016,November,5.777808593
+1,Alabama,AL,2016,December,4.044466015
+1,Alabama,AL,2017,January,7.609770946
+1,Alabama,AL,2017,February,4.682935967
+1,Alabama,AL,2017,March,4.097568971
+1,Alabama,AL,2017,April,9.365871933
+1,Alabama,AL,2017,May,3.512201975
+1,Alabama,AL,2017,June,2.926834979
+1,Alabama,AL,2017,July,NA
+1,Alabama,AL,2017,August,2.341467983
+1,Alabama,AL,2017,September,NA
+1,Alabama,AL,2017,October,1.756100988
+1,Alabama,AL,2017,November,2.341467983
+1,Alabama,AL,2017,December,NA
+1,Alabama,AL,2018,January,NA
+1,Alabama,AL,2018,February,NA
+1,Alabama,AL,2018,March,1.657879903
+1,Alabama,AL,2018,April,2.210506538
+1,Alabama,AL,2018,May,3.868386441
+1,Alabama,AL,2018,June,2.210506538
+1,Alabama,AL,2018,July,2.763133172
+1,Alabama,AL,2018,August,2.763133172
+1,Alabama,AL,2018,September,NA
+1,Alabama,AL,2018,October,NA
+1,Alabama,AL,2018,November,NA
+1,Alabama,AL,2018,December,1.657879903
+1,Alabama,AL,2019,January,1.988101214
+1,Alabama,AL,2019,February,NA
+1,Alabama,AL,2019,March,NA
+1,Alabama,AL,2019,April,1.491075911
+1,Alabama,AL,2019,May,NA
+1,Alabama,AL,2019,June,NA
+1,Alabama,AL,2019,July,NA
+1,Alabama,AL,2019,August,1.988101214
+1,Alabama,AL,2019,September,2.982151821
+1,Alabama,AL,2019,October,NA
+1,Alabama,AL,2019,November,NA
+1,Alabama,AL,2019,December,1.988101214
+1,Alabama,AL,2020,January,0.612000098
+1,Alabama,AL,2020,February,NA
+1,Alabama,AL,2020,March,NA
+1,Alabama,AL,2020,April,1.020000163
+1,Alabama,AL,2020,May,1.632000261
+1,Alabama,AL,2020,June,1.428000228
+1,Alabama,AL,2020,July,1.632000261
+1,Alabama,AL,2020,August,1.428000228
+1,Alabama,AL,2020,September,0.612000098
+1,Alabama,AL,2020,October,1.428000228
+1,Alabama,AL,2020,November,NA
+1,Alabama,AL,2020,December,0.612000098
+1,Alabama,AL,2021,January,0.989057073
+1,Alabama,AL,2021,February,NA
+1,Alabama,AL,2021,March,NA
+1,Alabama,AL,2021,April,2.201992436
+1,Alabama,AL,2021,May,1.651494327
+1,Alabama,AL,2021,June,0.733997479
+1,Alabama,AL,2021,July,2.462699573
+1,Alabama,AL,2021,August,1.51550743
+1,Alabama,AL,2021,September,0.757753715
+1,Alabama,AL,2021,October,1.427678563
+1,Alabama,AL,2021,November,0.793154757
+1,Alabama,AL,2021,December,3.172619029
+2,Alaska,AK,2016,January,2.103950957
+2,Alaska,AK,2016,February,2.629938696
+2,Alaska,AK,2016,March,2.366944827
+2,Alaska,AK,2016,April,1.577963218
+2,Alaska,AK,2016,May,1.840957087
+2,Alaska,AK,2016,June,1.577963218
+2,Alaska,AK,2016,July,2.892932566
+2,Alaska,AK,2016,August,1.840957087
+2,Alaska,AK,2016,September,1.051975478
+2,Alaska,AK,2016,October,1.840957087
+2,Alaska,AK,2016,November,NA
+2,Alaska,AK,2016,December,1.051975478
+2,Alaska,AK,2017,January,2.261767979
+2,Alaska,AK,2017,February,3.16647517
+2,Alaska,AK,2017,March,2.714121575
+2,Alaska,AK,2017,April,2.261767979
+2,Alaska,AK,2017,May,1.809414383
+2,Alaska,AK,2017,June,4.523535958
+2,Alaska,AK,2017,July,1.809414383
+2,Alaska,AK,2017,August,2.714121575
+2,Alaska,AK,2017,September,1.357060787
+2,Alaska,AK,2017,October,2.261767979
+2,Alaska,AK,2017,November,1.357060787
+2,Alaska,AK,2017,December,2.261767979
+2,Alaska,AK,2018,January,2.051124272
+2,Alaska,AK,2018,February,NA
+2,Alaska,AK,2018,March,2.051124272
+2,Alaska,AK,2018,April,NA
+2,Alaska,AK,2018,May,2.563905341
+2,Alaska,AK,2018,June,NA
+2,Alaska,AK,2018,July,4.102248545
+2,Alaska,AK,2018,August,NA
+2,Alaska,AK,2018,September,1.538343204
+2,Alaska,AK,2018,October,NA
+2,Alaska,AK,2018,November,2.051124272
+2,Alaska,AK,2018,December,2.563905341
+2,Alaska,AK,2019,January,4.705833142
+2,Alaska,AK,2019,February,NA
+2,Alaska,AK,2019,March,3.660092443
+2,Alaska,AK,2019,April,2.091481396
+2,Alaska,AK,2019,May,1.568611047
+2,Alaska,AK,2019,June,3.660092443
+2,Alaska,AK,2019,July,2.091481396
+2,Alaska,AK,2019,August,1.568611047
+2,Alaska,AK,2019,September,NA
+2,Alaska,AK,2019,October,NA
+2,Alaska,AK,2019,November,NA
+2,Alaska,AK,2019,December,NA
+2,Alaska,AK,2020,January,2.341591345
+2,Alaska,AK,2020,February,NA
+2,Alaska,AK,2020,March,NA
+2,Alaska,AK,2020,April,NA
+2,Alaska,AK,2020,May,NA
+2,Alaska,AK,2020,June,NA
+2,Alaska,AK,2020,July,NA
+2,Alaska,AK,2020,August,3.122121794
+2,Alaska,AK,2020,September,NA
+2,Alaska,AK,2020,October,NA
+2,Alaska,AK,2020,November,2.341591345
+2,Alaska,AK,2020,December,NA
+2,Alaska,AK,2021,January,NA
+2,Alaska,AK,2021,February,NA
+2,Alaska,AK,2021,March,NA
+2,Alaska,AK,2021,April,2.848373935
+2,Alaska,AK,2021,May,NA
+2,Alaska,AK,2021,June,NA
+2,Alaska,AK,2021,July,NA
+2,Alaska,AK,2021,August,NA
+2,Alaska,AK,2021,September,3.945738208
+2,Alaska,AK,2021,October,2.02164508
+2,Alaska,AK,2021,November,2.695526773
+2,Alaska,AK,2021,December,0
+4,Arizona,AZ,2016,January,2.05080353
+4,Arizona,AZ,2016,February,2.563504413
+4,Arizona,AZ,2016,March,3.076205296
+4,Arizona,AZ,2016,April,1.794453089
+4,Arizona,AZ,2016,May,1.281752207
+4,Arizona,AZ,2016,June,1.281752207
+4,Arizona,AZ,2016,July,2.307153972
+4,Arizona,AZ,2016,August,1.281752207
+4,Arizona,AZ,2016,September,NA
+4,Arizona,AZ,2016,October,2.05080353
+4,Arizona,AZ,2016,November,1.281752207
+4,Arizona,AZ,2016,December,2.563504413
+4,Arizona,AZ,2017,January,3.009168706
+4,Arizona,AZ,2017,February,1.388847095
+4,Arizona,AZ,2017,March,0.925898063
+4,Arizona,AZ,2017,April,1.388847095
+4,Arizona,AZ,2017,May,1.620321611
+4,Arizona,AZ,2017,June,2.314745158
+4,Arizona,AZ,2017,July,1.620321611
+4,Arizona,AZ,2017,August,2.083270642
+4,Arizona,AZ,2017,September,1.157372579
+4,Arizona,AZ,2017,October,1.157372579
+4,Arizona,AZ,2017,November,0.694423547
+4,Arizona,AZ,2017,December,1.388847095
+4,Arizona,AZ,2018,January,0.662844265
+4,Arizona,AZ,2018,February,1.767584706
+4,Arizona,AZ,2018,March,3.977065588
+4,Arizona,AZ,2018,April,1.767584706
+4,Arizona,AZ,2018,May,2.209480882
+4,Arizona,AZ,2018,June,1.325688529
+4,Arizona,AZ,2018,July,1.767584706
+4,Arizona,AZ,2018,August,1.767584706
+4,Arizona,AZ,2018,September,1.325688529
+4,Arizona,AZ,2018,October,NA
+4,Arizona,AZ,2018,November,1.546636618
+4,Arizona,AZ,2018,December,1.546636618
+4,Arizona,AZ,2019,January,1.521036891
+4,Arizona,AZ,2019,February,1.330907279
+4,Arizona,AZ,2019,March,1.330907279
+4,Arizona,AZ,2019,April,1.140777668
+4,Arizona,AZ,2019,May,1.711166502
+4,Arizona,AZ,2019,June,1.901296114
+4,Arizona,AZ,2019,July,2.281555336
+4,Arizona,AZ,2019,August,1.140777668
+4,Arizona,AZ,2019,September,2.091425725
+4,Arizona,AZ,2019,October,0.950648057
+4,Arizona,AZ,2019,November,0.950648057
+4,Arizona,AZ,2019,December,1.711166502
+4,Arizona,AZ,2020,January,NA
+4,Arizona,AZ,2020,February,0.49310811
+4,Arizona,AZ,2020,March,1.620212361
+4,Arizona,AZ,2020,April,0.704440157
+4,Arizona,AZ,2020,May,1.267992282
+4,Arizona,AZ,2020,June,1.408880314
+4,Arizona,AZ,2020,July,1.831544408
+4,Arizona,AZ,2020,August,0.986216219
+4,Arizona,AZ,2020,September,1.338436298
+4,Arizona,AZ,2020,October,1.197548266
+4,Arizona,AZ,2020,November,0.633996141
+4,Arizona,AZ,2020,December,1.056660235
+4,Arizona,AZ,2021,January,0.820758627
+4,Arizona,AZ,2021,February,0.61556897
+4,Arizona,AZ,2021,March,0.683965523
+4,Arizona,AZ,2021,April,0.782235433
+4,Arizona,AZ,2021,May,1.434098294
+4,Arizona,AZ,2021,June,1.303725722
+4,Arizona,AZ,2021,July,1.502451936
+4,Arizona,AZ,2021,August,1.306479945
+4,Arizona,AZ,2021,September,1.17583195
+4,Arizona,AZ,2021,October,1.575160351
+4,Arizona,AZ,2021,November,1.512153937
+4,Arizona,AZ,2021,December,0.882089797
+5,Arkansas,AR,2016,January,NA
+5,Arkansas,AR,2016,February,NA
+5,Arkansas,AR,2016,March,2.913469943
+5,Arkansas,AR,2016,April,2.913469943
+5,Arkansas,AR,2016,May,NA
+5,Arkansas,AR,2016,June,NA
+5,Arkansas,AR,2016,July,NA
+5,Arkansas,AR,2016,August,2.913469943
+5,Arkansas,AR,2016,September,NA
+5,Arkansas,AR,2016,October,2.913469943
+5,Arkansas,AR,2016,November,4.855783238
+5,Arkansas,AR,2016,December,5.826939885
+5,Arkansas,AR,2017,January,4.124391652
+5,Arkansas,AR,2017,February,3.093293739
+5,Arkansas,AR,2017,March,NA
+5,Arkansas,AR,2017,April,4.124391652
+5,Arkansas,AR,2017,May,NA
+5,Arkansas,AR,2017,June,NA
+5,Arkansas,AR,2017,July,4.124391652
+5,Arkansas,AR,2017,August,NA
+5,Arkansas,AR,2017,September,5.155489565
+5,Arkansas,AR,2017,October,NA
+5,Arkansas,AR,2017,November,4.124391652
+5,Arkansas,AR,2017,December,NA
+5,Arkansas,AR,2018,January,2.837577088
+5,Arkansas,AR,2018,February,NA
+5,Arkansas,AR,2018,March,NA
+5,Arkansas,AR,2018,April,NA
+5,Arkansas,AR,2018,May,2.837577088
+5,Arkansas,AR,2018,June,2.837577088
+5,Arkansas,AR,2018,July,NA
+5,Arkansas,AR,2018,August,2.837577088
+5,Arkansas,AR,2018,September,NA
+5,Arkansas,AR,2018,October,NA
+5,Arkansas,AR,2018,November,NA
+5,Arkansas,AR,2018,December,NA
+5,Arkansas,AR,2019,January,NA
+5,Arkansas,AR,2019,February,NA
+5,Arkansas,AR,2019,March,NA
+5,Arkansas,AR,2019,April,NA
+5,Arkansas,AR,2019,May,2.751208239
+5,Arkansas,AR,2019,June,NA
+5,Arkansas,AR,2019,July,2.751208239
+5,Arkansas,AR,2019,August,NA
+5,Arkansas,AR,2019,September,NA
+5,Arkansas,AR,2019,October,NA
+5,Arkansas,AR,2019,November,NA
+5,Arkansas,AR,2019,December,NA
+5,Arkansas,AR,2020,January,NA
+5,Arkansas,AR,2020,February,NA
+5,Arkansas,AR,2020,March,NA
+5,Arkansas,AR,2020,April,NA
+5,Arkansas,AR,2020,May,0.870862677
+5,Arkansas,AR,2020,June,1.161150235
+5,Arkansas,AR,2020,July,NA
+5,Arkansas,AR,2020,August,0.870862677
+5,Arkansas,AR,2020,September,1.741725353
+5,Arkansas,AR,2020,October,0.870862677
+5,Arkansas,AR,2020,November,NA
+5,Arkansas,AR,2020,December,NA
+5,Arkansas,AR,2021,January,1.134050431
+5,Arkansas,AR,2021,February,NA
+5,Arkansas,AR,2021,March,NA
+5,Arkansas,AR,2021,April,NA
+5,Arkansas,AR,2021,May,1.262527428
+5,Arkansas,AR,2021,June,NA
+5,Arkansas,AR,2021,July,NA
+5,Arkansas,AR,2021,August,1.312063903
+5,Arkansas,AR,2021,September,NA
+5,Arkansas,AR,2021,October,0.759003681
+5,Arkansas,AR,2021,November,0.759003681
+5,Arkansas,AR,2021,December,0.506002454
+6,California,CA,2016,January,4.374164095
+6,California,CA,2016,February,3.344016754
+6,California,CA,2016,March,3.233077809
+6,California,CA,2016,April,3.597591484
+6,California,CA,2016,May,3.201380968
+6,California,CA,2016,June,3.930408317
+6,California,CA,2016,July,4.00965042
+6,California,CA,2016,August,3.660985166
+6,California,CA,2016,September,3.027048341
+6,California,CA,2016,October,3.328168333
+6,California,CA,2016,November,2.979503079
+6,California,CA,2016,December,2.916109397
+6,California,CA,2017,January,3.071066386
+6,California,CA,2017,February,2.99150508
+6,California,CA,2017,March,2.943768297
+6,California,CA,2017,April,2.975592819
+6,California,CA,2017,May,3.548434218
+6,California,CA,2017,June,3.707556828
+6,California,CA,2017,July,4.232661443
+6,California,CA,2017,August,3.516609695
+6,California,CA,2017,September,3.277925779
+6,California,CA,2017,October,2.896031514
+6,California,CA,2017,November,2.466400465
+6,California,CA,2017,December,2.450488204
+6,California,CA,2018,January,2.754897284
+6,California,CA,2018,February,2.391976683
+6,California,CA,2018,March,2.639422547
+6,California,CA,2018,April,2.622926156
+6,California,CA,2018,May,2.573436983
+6,California,CA,2018,June,3.662198784
+6,California,CA,2018,July,3.348767357
+6,California,CA,2018,August,3.59621322
+6,California,CA,2018,September,3.101321493
+6,California,CA,2018,October,2.573436983
+6,California,CA,2018,November,2.276501947
+6,California,CA,2018,December,2.111538038
+6,California,CA,2019,January,2.608642629
+6,California,CA,2019,February,2.412994432
+6,California,CA,2019,March,2.624946645
+6,California,CA,2019,April,2.2825623
+6,California,CA,2019,May,3.065155089
+6,California,CA,2019,June,3.114067138
+6,California,CA,2019,July,3.407539434
+6,California,CA,2019,August,3.472755499
+6,California,CA,2019,September,2.853202875
+6,California,CA,2019,October,2.608642629
+6,California,CA,2019,November,2.364082382
+6,California,CA,2019,December,2.135826152
+6,California,CA,2020,January,1.839390774
+6,California,CA,2020,February,1.851653379
+6,California,CA,2020,March,1.581876066
+6,California,CA,2020,April,2.011067246
+6,California,CA,2020,May,2.354420191
+6,California,CA,2020,June,2.526096663
+6,California,CA,2020,July,2.244056744
+6,California,CA,2020,August,2.035592457
+6,California,CA,2020,September,2.207268929
+6,California,CA,2020,October,2.072380272
+6,California,CA,2020,November,1.655451697
+6,California,CA,2020,December,1.336623963
+6,California,CA,2021,January,1.600375492
+6,California,CA,2021,February,1.950822681
+6,California,CA,2021,March,1.974185826
+6,California,CA,2021,April,2.456101701
+6,California,CA,2021,May,1.977640331
+6,California,CA,2021,June,2.232819728
+6,California,CA,2021,July,3.234888837
+6,California,CA,2021,August,2.296771074
+6,California,CA,2021,September,1.940933302
+6,California,CA,2021,October,2.763880488
+6,California,CA,2021,November,1.94272759
+6,California,CA,2021,December,1.592235499
+8,Colorado,CO,2016,January,2.479820461
+8,Colorado,CO,2016,February,2.893123871
+8,Colorado,CO,2016,March,2.066517051
+8,Colorado,CO,2016,April,2.066517051
+8,Colorado,CO,2016,May,2.479820461
+8,Colorado,CO,2016,June,3.306427281
+8,Colorado,CO,2016,July,4.133034102
+8,Colorado,CO,2016,August,2.066517051
+8,Colorado,CO,2016,September,4.133034102
+8,Colorado,CO,2016,October,1.23991023
+8,Colorado,CO,2016,November,NA
+8,Colorado,CO,2016,December,2.479820461
+8,Colorado,CO,2017,January,1.928216361
+8,Colorado,CO,2017,February,NA
+8,Colorado,CO,2017,March,2.313859634
+8,Colorado,CO,2017,April,2.313859634
+8,Colorado,CO,2017,May,3.856432723
+8,Colorado,CO,2017,June,2.699502906
+8,Colorado,CO,2017,July,5.399005812
+8,Colorado,CO,2017,August,1.928216361
+8,Colorado,CO,2017,September,2.313859634
+8,Colorado,CO,2017,October,2.699502906
+8,Colorado,CO,2017,November,1.928216361
+8,Colorado,CO,2017,December,NA
+8,Colorado,CO,2018,January,1.967086705
+8,Colorado,CO,2018,February,1.573669364
+8,Colorado,CO,2018,March,2.753921387
+8,Colorado,CO,2018,April,1.180252023
+8,Colorado,CO,2018,May,2.753921387
+8,Colorado,CO,2018,June,5.114425434
+8,Colorado,CO,2018,July,3.540756069
+8,Colorado,CO,2018,August,4.721008093
+8,Colorado,CO,2018,September,1.573669364
+8,Colorado,CO,2018,October,1.180252023
+8,Colorado,CO,2018,November,1.180252023
+8,Colorado,CO,2018,December,1.180252023
+8,Colorado,CO,2019,January,1.143763439
+8,Colorado,CO,2019,February,1.906272399
+8,Colorado,CO,2019,March,2.287526878
+8,Colorado,CO,2019,April,2.287526878
+8,Colorado,CO,2019,May,1.906272399
+8,Colorado,CO,2019,June,3.431290318
+8,Colorado,CO,2019,July,3.050035838
+8,Colorado,CO,2019,August,2.287526878
+8,Colorado,CO,2019,September,3.431290318
+8,Colorado,CO,2019,October,1.143763439
+8,Colorado,CO,2019,November,NA
+8,Colorado,CO,2019,December,1.143763439
+8,Colorado,CO,2020,January,0.394181876
+8,Colorado,CO,2020,February,NA
+8,Colorado,CO,2020,March,3.350545942
+8,Colorado,CO,2020,April,2.956364066
+8,Colorado,CO,2020,May,2.463636722
+8,Colorado,CO,2020,June,2.463636722
+8,Colorado,CO,2020,July,1.970909378
+8,Colorado,CO,2020,August,1.675272971
+8,Colorado,CO,2020,September,1.281091095
+8,Colorado,CO,2020,October,1.675272971
+8,Colorado,CO,2020,November,1.379636564
+8,Colorado,CO,2020,December,1.478182033
+8,Colorado,CO,2021,January,2.222047152
+8,Colorado,CO,2021,February,1.212025719
+8,Colorado,CO,2021,March,1.818038579
+8,Colorado,CO,2021,April,3.21223218
+8,Colorado,CO,2021,May,2.6205052
+8,Colorado,CO,2021,June,2.535972774
+8,Colorado,CO,2021,July,3.541045904
+8,Colorado,CO,2021,August,1.900073412
+8,Colorado,CO,2021,September,2.331908278
+8,Colorado,CO,2021,October,2.574162375
+8,Colorado,CO,2021,November,1.362791846
+8,Colorado,CO,2021,December,2.347030401
+9,Connecticut,CT,2016,January,19.29464819
+9,Connecticut,CT,2016,February,10.21481375
+9,Connecticut,CT,2016,March,20.05130106
+9,Connecticut,CT,2016,April,22.32125968
+9,Connecticut,CT,2016,May,22.32125968
+9,Connecticut,CT,2016,June,45.39917222
+9,Connecticut,CT,2016,July,32.53607343
+9,Connecticut,CT,2016,August,21.18628037
+9,Connecticut,CT,2016,September,16.26803671
+9,Connecticut,CT,2016,October,17.40301602
+9,Connecticut,CT,2016,November,19.67297463
+9,Connecticut,CT,2016,December,13.24142523
+9,Connecticut,CT,2017,January,8.703462586
+9,Connecticut,CT,2017,February,9.051601089
+9,Connecticut,CT,2017,March,11.48857061
+9,Connecticut,CT,2017,April,19.8438947
+9,Connecticut,CT,2017,May,26.45852626
+9,Connecticut,CT,2017,June,32.02874231
+9,Connecticut,CT,2017,July,28.19921878
+9,Connecticut,CT,2017,August,20.5401717
+9,Connecticut,CT,2017,September,16.36250966
+9,Connecticut,CT,2017,October,16.01437116
+9,Connecticut,CT,2017,November,10.0960166
+9,Connecticut,CT,2017,December,9.399739592
+9,Connecticut,CT,2018,January,11.01355279
+9,Connecticut,CT,2018,February,8.566096613
+9,Connecticut,CT,2018,March,10.09575672
+9,Connecticut,CT,2018,April,14.07287301
+9,Connecticut,CT,2018,May,29.06354208
+9,Connecticut,CT,2018,June,35.18218252
+9,Connecticut,CT,2018,July,26.92201793
+9,Connecticut,CT,2018,August,21.10930951
+9,Connecticut,CT,2018,September,18.66185334
+9,Connecticut,CT,2018,October,12.5432129
+9,Connecticut,CT,2018,November,11.62541683
+9,Connecticut,CT,2018,December,7.036436504
+9,Connecticut,CT,2019,January,9.790112618
+9,Connecticut,CT,2019,February,5.052961351
+9,Connecticut,CT,2019,March,10.1059227
+9,Connecticut,CT,2019,April,14.2114538
+9,Connecticut,CT,2019,May,20.2118454
+9,Connecticut,CT,2019,June,37.58140005
+9,Connecticut,CT,2019,July,35.05491937
+9,Connecticut,CT,2019,August,21.47508574
+9,Connecticut,CT,2019,September,11.36916304
+9,Connecticut,CT,2019,October,14.52726388
+9,Connecticut,CT,2019,November,8.211062196
+9,Connecticut,CT,2019,December,7.579442027
+9,Connecticut,CT,2020,January,2.275947784
+9,Connecticut,CT,2020,February,2.473856287
+9,Connecticut,CT,2020,March,7.124706106
+9,Connecticut,CT,2020,April,9.004836884
+9,Connecticut,CT,2020,May,16.42640574
+9,Connecticut,CT,2020,June,27.41032766
+9,Connecticut,CT,2020,July,20.68143856
+9,Connecticut,CT,2020,August,16.42640574
+9,Connecticut,CT,2020,September,9.202745387
+9,Connecticut,CT,2020,October,10.1922879
+9,Connecticut,CT,2020,November,10.3901964
+9,Connecticut,CT,2020,December,4.551895568
+9,Connecticut,CT,2021,January,4.974439036
+9,Connecticut,CT,2021,February,3.922153856
+9,Connecticut,CT,2021,March,6.600697952
+9,Connecticut,CT,2021,April,11.18680454
+9,Connecticut,CT,2021,May,14.02789776
+9,Connecticut,CT,2021,June,23.17266655
+9,Connecticut,CT,2021,July,29.880959
+9,Connecticut,CT,2021,August,13.48287174
+9,Connecticut,CT,2021,September,8.745646536
+9,Connecticut,CT,2021,October,13.65138196
+9,Connecticut,CT,2021,November,11.27722857
+9,Connecticut,CT,2021,December,17.08071462
+10,Delaware,DE,2016,January,5.247140309
+10,Delaware,DE,2016,February,6.996187078
+10,Delaware,DE,2016,March,NA
+10,Delaware,DE,2016,April,15.74142093
+10,Delaware,DE,2016,May,12.24332739
+10,Delaware,DE,2016,June,15.74142093
+10,Delaware,DE,2016,July,17.4904677
+10,Delaware,DE,2016,August,5.247140309
+10,Delaware,DE,2016,September,6.996187078
+10,Delaware,DE,2016,October,8.745233848
+10,Delaware,DE,2016,November,5.247140309
+10,Delaware,DE,2016,December,6.996187078
+10,Delaware,DE,2017,January,NA
+10,Delaware,DE,2017,February,NA
+10,Delaware,DE,2017,March,NA
+10,Delaware,DE,2017,April,7.165376899
+10,Delaware,DE,2017,May,17.91344225
+10,Delaware,DE,2017,June,17.91344225
+10,Delaware,DE,2017,July,12.53940957
+10,Delaware,DE,2017,August,7.165376899
+10,Delaware,DE,2017,September,8.956721124
+10,Delaware,DE,2017,October,10.74806535
+10,Delaware,DE,2017,November,5.374032674
+10,Delaware,DE,2017,December,NA
+10,Delaware,DE,2018,January,NA
+10,Delaware,DE,2018,February,NA
+10,Delaware,DE,2018,March,NA
+10,Delaware,DE,2018,April,4.998833605
+10,Delaware,DE,2018,May,18.32905655
+10,Delaware,DE,2018,June,13.33022295
+10,Delaware,DE,2018,July,14.99650082
+10,Delaware,DE,2018,August,4.998833605
+10,Delaware,DE,2018,September,4.998833605
+10,Delaware,DE,2018,October,NA
+10,Delaware,DE,2018,November,4.998833605
+10,Delaware,DE,2018,December,4.998833605
+10,Delaware,DE,2019,January,NA
+10,Delaware,DE,2019,February,NA
+10,Delaware,DE,2019,March,6.320213623
+10,Delaware,DE,2019,April,7.900267029
+10,Delaware,DE,2019,May,20.54069428
+10,Delaware,DE,2019,June,7.900267029
+10,Delaware,DE,2019,July,6.320213623
+10,Delaware,DE,2019,August,6.320213623
+10,Delaware,DE,2019,September,11.06037384
+10,Delaware,DE,2019,October,7.900267029
+10,Delaware,DE,2019,November,NA
+10,Delaware,DE,2019,December,4.740160217
+10,Delaware,DE,2020,January,2.541339116
+10,Delaware,DE,2020,February,NA
+10,Delaware,DE,2020,March,NA
+10,Delaware,DE,2020,April,5.082678233
+10,Delaware,DE,2020,May,15.2480347
+10,Delaware,DE,2020,June,9.318243426
+10,Delaware,DE,2020,July,9.318243426
+10,Delaware,DE,2020,August,5.929791271
+10,Delaware,DE,2020,September,3.388452155
+10,Delaware,DE,2020,October,6.77690431
+10,Delaware,DE,2020,November,11.0124695
+10,Delaware,DE,2020,December,3.388452155
+10,Delaware,DE,2021,January,3.260727794
+10,Delaware,DE,2021,February,NA
+10,Delaware,DE,2021,March,3.260727794
+10,Delaware,DE,2021,April,6.340617999
+10,Delaware,DE,2021,May,11.27220978
+10,Delaware,DE,2021,June,7.04513111
+10,Delaware,DE,2021,July,11.59680798
+10,Delaware,DE,2021,August,7.248004987
+10,Delaware,DE,2021,September,NA
+10,Delaware,DE,2021,October,3.021677514
+10,Delaware,DE,2021,November,4.23034852
+10,Delaware,DE,2021,December,1.813006509
+11,District of Columbia,DC,2016,January,NA
+11,District of Columbia,DC,2016,February,5.913194308
+11,District of Columbia,DC,2016,March,7.884259077
+11,District of Columbia,DC,2016,April,11.82638862
+11,District of Columbia,DC,2016,May,5.913194308
+11,District of Columbia,DC,2016,June,15.76851815
+11,District of Columbia,DC,2016,July,9.855323846
+11,District of Columbia,DC,2016,August,NA
+11,District of Columbia,DC,2016,September,NA
+11,District of Columbia,DC,2016,October,5.913194308
+11,District of Columbia,DC,2016,November,NA
+11,District of Columbia,DC,2016,December,NA
+11,District of Columbia,DC,2017,January,NA
+11,District of Columbia,DC,2017,February,11.37699571
+11,District of Columbia,DC,2017,March,NA
+11,District of Columbia,DC,2017,April,11.37699571
+11,District of Columbia,DC,2017,May,7.58466381
+11,District of Columbia,DC,2017,June,NA
+11,District of Columbia,DC,2017,July,NA
+11,District of Columbia,DC,2017,August,5.688497857
+11,District of Columbia,DC,2017,September,5.688497857
+11,District of Columbia,DC,2017,October,NA
+11,District of Columbia,DC,2017,November,NA
+11,District of Columbia,DC,2017,December,NA
+11,District of Columbia,DC,2018,January,NA
+11,District of Columbia,DC,2018,February,NA
+11,District of Columbia,DC,2018,March,NA
+11,District of Columbia,DC,2018,April,8.779245863
+11,District of Columbia,DC,2018,May,8.779245863
+11,District of Columbia,DC,2018,June,6.584434397
+11,District of Columbia,DC,2018,July,8.779245863
+11,District of Columbia,DC,2018,August,NA
+11,District of Columbia,DC,2018,September,NA
+11,District of Columbia,DC,2018,October,NA
+11,District of Columbia,DC,2018,November,NA
+11,District of Columbia,DC,2018,December,NA
+11,District of Columbia,DC,2019,January,NA
+11,District of Columbia,DC,2019,February,NA
+11,District of Columbia,DC,2019,March,NA
+11,District of Columbia,DC,2019,April,NA
+11,District of Columbia,DC,2019,May,NA
+11,District of Columbia,DC,2019,June,NA
+11,District of Columbia,DC,2019,July,8.210349145
+11,District of Columbia,DC,2019,August,NA
+11,District of Columbia,DC,2019,September,NA
+11,District of Columbia,DC,2019,October,8.210349145
+11,District of Columbia,DC,2019,November,8.210349145
+11,District of Columbia,DC,2019,December,NA
+11,District of Columbia,DC,2020,January,1.151941021
+11,District of Columbia,DC,2020,February,NA
+11,District of Columbia,DC,2020,March,1.535921361
+11,District of Columbia,DC,2020,April,1.919901701
+11,District of Columbia,DC,2020,May,5.759705103
+11,District of Columbia,DC,2020,June,4.607764082
+11,District of Columbia,DC,2020,July,4.607764082
+11,District of Columbia,DC,2020,August,3.071842722
+11,District of Columbia,DC,2020,September,3.071842722
+11,District of Columbia,DC,2020,October,2.303882041
+11,District of Columbia,DC,2020,November,1.919901701
+11,District of Columbia,DC,2020,December,NA
+11,District of Columbia,DC,2021,January,1.472728022
+11,District of Columbia,DC,2021,February,1.178182418
+11,District of Columbia,DC,2021,March,NA
+11,District of Columbia,DC,2021,April,3.046195556
+11,District of Columbia,DC,2021,May,3.300045185
+11,District of Columbia,DC,2021,June,3.046195556
+11,District of Columbia,DC,2021,July,5.686556979
+11,District of Columbia,DC,2021,August,3.080218364
+11,District of Columbia,DC,2021,September,1.421639245
+11,District of Columbia,DC,2021,October,1.629636571
+11,District of Columbia,DC,2021,November,0.814818285
+11,District of Columbia,DC,2021,December,1.018522857
+12,Florida,FL,2016,January,4.888752132
+12,Florida,FL,2016,February,2.971594433
+12,Florida,FL,2016,March,3.259168088
+12,Florida,FL,2016,April,3.355025973
+12,Florida,FL,2016,May,1.725441929
+12,Florida,FL,2016,June,2.396447123
+12,Florida,FL,2016,July,2.684020778
+12,Florida,FL,2016,August,3.067452318
+12,Florida,FL,2016,September,3.738457512
+12,Florida,FL,2016,October,2.588162893
+12,Florida,FL,2016,November,3.930173282
+12,Florida,FL,2016,December,2.971594433
+12,Florida,FL,2017,January,3.161120961
+12,Florida,FL,2017,February,2.199040669
+12,Florida,FL,2017,March,3.573441086
+12,Florida,FL,2017,April,3.436001045
+12,Florida,FL,2017,May,3.985761212
+12,Florida,FL,2017,June,3.298561003
+12,Florida,FL,2017,July,3.436001045
+12,Florida,FL,2017,August,1.924160585
+12,Florida,FL,2017,September,2.061600627
+12,Florida,FL,2017,October,3.023680919
+12,Florida,FL,2017,November,2.199040669
+12,Florida,FL,2017,December,3.023680919
+12,Florida,FL,2018,January,2.99604658
+12,Florida,FL,2018,February,3.132230516
+12,Florida,FL,2018,March,3.404598387
+12,Florida,FL,2018,April,3.268414451
+12,Florida,FL,2018,May,4.357885935
+12,Florida,FL,2018,June,3.404598387
+12,Florida,FL,2018,July,3.268414451
+12,Florida,FL,2018,August,2.178942968
+12,Florida,FL,2018,September,4.630253806
+12,Florida,FL,2018,October,4.085518064
+12,Florida,FL,2018,November,2.587494774
+12,Florida,FL,2018,December,3.540782322
+12,Florida,FL,2019,January,4.180820486
+12,Florida,FL,2019,February,1.959759603
+12,Florida,FL,2019,March,3.004964724
+12,Florida,FL,2019,April,2.351711523
+12,Florida,FL,2019,May,3.004964724
+12,Florida,FL,2019,June,4.050169846
+12,Florida,FL,2019,July,3.527567285
+12,Florida,FL,2019,August,3.658217925
+12,Florida,FL,2019,September,3.135615365
+12,Florida,FL,2019,October,3.527567285
+12,Florida,FL,2019,November,2.482362164
+12,Florida,FL,2019,December,3.135615365
+12,Florida,FL,2020,January,0.996931776
+12,Florida,FL,2020,February,0.764314362
+12,Florida,FL,2020,March,2.724946855
+12,Florida,FL,2020,April,1.993863553
+12,Florida,FL,2020,May,2.691715796
+12,Florida,FL,2020,June,2.492329441
+12,Florida,FL,2020,July,2.09355673
+12,Florida,FL,2020,August,1.728015079
+12,Florida,FL,2020,September,2.193249908
+12,Florida,FL,2020,October,2.326174145
+12,Florida,FL,2020,November,2.193249908
+12,Florida,FL,2020,December,1.428935546
+12,Florida,FL,2021,January,2.012290945
+12,Florida,FL,2021,February,1.628997432
+12,Florida,FL,2021,March,1.884526441
+12,Florida,FL,2021,April,2.725622966
+12,Florida,FL,2021,May,2.37392968
+12,Florida,FL,2021,June,2.051544168
+12,Florida,FL,2021,July,3.874465116
+12,Florida,FL,2021,August,3.071897342
+12,Florida,FL,2021,September,2.739800332
+12,Florida,FL,2021,October,3.394406611
+12,Florida,FL,2021,November,2.451515885
+12,Florida,FL,2021,December,1.751082775
+13,Georgia,GA,2016,January,1.443629863
+13,Georgia,GA,2016,February,1.563932352
+13,Georgia,GA,2016,March,2.406049772
+13,Georgia,GA,2016,April,2.165444794
+13,Georgia,GA,2016,May,2.406049772
+13,Georgia,GA,2016,June,2.165444794
+13,Georgia,GA,2016,July,2.406049772
+13,Georgia,GA,2016,August,2.045142306
+13,Georgia,GA,2016,September,2.52635226
+13,Georgia,GA,2016,October,2.406049772
+13,Georgia,GA,2016,November,1.323327374
+13,Georgia,GA,2016,December,0.84211742
+13,Georgia,GA,2017,January,1.376263582
+13,Georgia,GA,2017,February,0.963384507
+13,Georgia,GA,2017,March,2.477274448
+13,Georgia,GA,2017,April,2.202021731
+13,Georgia,GA,2017,May,2.064395373
+13,Georgia,GA,2017,June,3.715911671
+13,Georgia,GA,2017,July,2.890153522
+13,Georgia,GA,2017,August,2.477274448
+13,Georgia,GA,2017,September,1.51388994
+13,Georgia,GA,2017,October,1.789142657
+13,Georgia,GA,2017,November,1.51388994
+13,Georgia,GA,2017,December,1.376263582
+13,Georgia,GA,2018,January,1.010404277
+13,Georgia,GA,2018,February,1.154747745
+13,Georgia,GA,2018,March,1.876465086
+13,Georgia,GA,2018,April,2.453838959
+13,Georgia,GA,2018,May,3.031212832
+13,Georgia,GA,2018,June,2.598182427
+13,Georgia,GA,2018,July,3.319899768
+13,Georgia,GA,2018,August,1.732121618
+13,Georgia,GA,2018,September,0.866060809
+13,Georgia,GA,2018,October,2.165152023
+13,Georgia,GA,2018,November,1.443434682
+13,Georgia,GA,2018,December,1.010404277
+13,Georgia,GA,2019,January,1.302292469
+13,Georgia,GA,2019,February,0.723495816
+13,Georgia,GA,2019,March,1.446991632
+13,Georgia,GA,2019,April,2.315186611
+13,Georgia,GA,2019,May,3.038682427
+13,Georgia,GA,2019,June,2.749284101
+13,Georgia,GA,2019,July,2.459885774
+13,Georgia,GA,2019,August,2.459885774
+13,Georgia,GA,2019,September,2.170487448
+13,Georgia,GA,2019,October,1.591690795
+13,Georgia,GA,2019,November,1.157593306
+13,Georgia,GA,2019,December,1.157593306
+13,Georgia,GA,2020,January,0.378682348
+13,Georgia,GA,2020,February,0.595072261
+13,Georgia,GA,2020,March,1.190144521
+13,Georgia,GA,2020,April,1.568826869
+13,Georgia,GA,2020,May,2.001606695
+13,Georgia,GA,2020,June,2.813068869
+13,Georgia,GA,2020,July,2.380289043
+13,Georgia,GA,2020,August,1.677021826
+13,Georgia,GA,2020,September,1.460631913
+13,Georgia,GA,2020,October,1.568826869
+13,Georgia,GA,2020,November,1.731119304
+13,Georgia,GA,2020,December,0.703267217
+13,Georgia,GA,2021,January,0.76347076
+13,Georgia,GA,2021,February,0.981605263
+13,Georgia,GA,2021,March,0.872538011
+13,Georgia,GA,2021,April,2.093757352
+13,Georgia,GA,2021,May,1.487669698
+13,Georgia,GA,2021,June,2.203955108
+13,Georgia,GA,2021,July,4.095778198
+13,Georgia,GA,2021,August,0.997689561
+13,Georgia,GA,2021,September,0.6826297
+13,Georgia,GA,2021,October,1.16460737
+13,Georgia,GA,2021,November,1.094025105
+13,Georgia,GA,2021,December,1.588100959
+15,Hawaii,HI,2016,January,NA
+15,Hawaii,HI,2016,February,NA
+15,Hawaii,HI,2016,March,NA
+15,Hawaii,HI,2016,April,NA
+15,Hawaii,HI,2016,May,NA
+15,Hawaii,HI,2016,June,NA
+15,Hawaii,HI,2016,July,NA
+15,Hawaii,HI,2016,August,NA
+15,Hawaii,HI,2016,September,NA
+15,Hawaii,HI,2016,October,NA
+15,Hawaii,HI,2016,November,NA
+15,Hawaii,HI,2016,December,NA
+15,Hawaii,HI,2017,January,NA
+15,Hawaii,HI,2017,February,NA
+15,Hawaii,HI,2017,March,NA
+15,Hawaii,HI,2017,April,NA
+15,Hawaii,HI,2017,May,NA
+15,Hawaii,HI,2017,June,NA
+15,Hawaii,HI,2017,July,NA
+15,Hawaii,HI,2017,August,NA
+15,Hawaii,HI,2017,September,NA
+15,Hawaii,HI,2017,October,NA
+15,Hawaii,HI,2017,November,NA
+15,Hawaii,HI,2017,December,NA
+15,Hawaii,HI,2018,January,NA
+15,Hawaii,HI,2018,February,NA
+15,Hawaii,HI,2018,March,NA
+15,Hawaii,HI,2018,April,NA
+15,Hawaii,HI,2018,May,NA
+15,Hawaii,HI,2018,June,NA
+15,Hawaii,HI,2018,July,NA
+15,Hawaii,HI,2018,August,NA
+15,Hawaii,HI,2018,September,NA
+15,Hawaii,HI,2018,October,NA
+15,Hawaii,HI,2018,November,NA
+15,Hawaii,HI,2018,December,NA
+15,Hawaii,HI,2019,January,NA
+15,Hawaii,HI,2019,February,NA
+15,Hawaii,HI,2019,March,NA
+15,Hawaii,HI,2019,April,NA
+15,Hawaii,HI,2019,May,NA
+15,Hawaii,HI,2019,June,12.76867419
+15,Hawaii,HI,2019,July,NA
+15,Hawaii,HI,2019,August,NA
+15,Hawaii,HI,2019,September,NA
+15,Hawaii,HI,2019,October,NA
+15,Hawaii,HI,2019,November,NA
+15,Hawaii,HI,2019,December,NA
+15,Hawaii,HI,2020,January,NA
+15,Hawaii,HI,2020,February,NA
+15,Hawaii,HI,2020,March,NA
+15,Hawaii,HI,2020,April,NA
+15,Hawaii,HI,2020,May,NA
+15,Hawaii,HI,2020,June,NA
+15,Hawaii,HI,2020,July,NA
+15,Hawaii,HI,2020,August,NA
+15,Hawaii,HI,2020,September,NA
+15,Hawaii,HI,2020,October,NA
+15,Hawaii,HI,2020,November,NA
+15,Hawaii,HI,2020,December,NA
+15,Hawaii,HI,2021,January,NA
+15,Hawaii,HI,2021,February,NA
+15,Hawaii,HI,2021,March,NA
+15,Hawaii,HI,2021,April,NA
+15,Hawaii,HI,2021,May,NA
+15,Hawaii,HI,2021,June,NA
+15,Hawaii,HI,2021,July,NA
+15,Hawaii,HI,2021,August,NA
+15,Hawaii,HI,2021,September,NA
+15,Hawaii,HI,2021,October,1.380986577
+15,Hawaii,HI,2021,November,1.380986577
+15,Hawaii,HI,2021,December,2.761973154
+16,Idaho,ID,2016,January,4.779829121
+16,Idaho,ID,2016,February,NA
+16,Idaho,ID,2016,March,NA
+16,Idaho,ID,2016,April,NA
+16,Idaho,ID,2016,May,NA
+16,Idaho,ID,2016,June,NA
+16,Idaho,ID,2016,July,NA
+16,Idaho,ID,2016,August,NA
+16,Idaho,ID,2016,September,NA
+16,Idaho,ID,2016,October,NA
+16,Idaho,ID,2016,November,NA
+16,Idaho,ID,2016,December,NA
+16,Idaho,ID,2017,January,NA
+16,Idaho,ID,2017,February,NA
+16,Idaho,ID,2017,March,NA
+16,Idaho,ID,2017,April,NA
+16,Idaho,ID,2017,May,NA
+16,Idaho,ID,2017,June,NA
+16,Idaho,ID,2017,July,NA
+16,Idaho,ID,2017,August,3.49397871
+16,Idaho,ID,2017,September,3.49397871
+16,Idaho,ID,2017,October,3.49397871
+16,Idaho,ID,2017,November,NA
+16,Idaho,ID,2017,December,NA
+16,Idaho,ID,2018,January,NA
+16,Idaho,ID,2018,February,NA
+16,Idaho,ID,2018,March,NA
+16,Idaho,ID,2018,April,NA
+16,Idaho,ID,2018,May,NA
+16,Idaho,ID,2018,June,NA
+16,Idaho,ID,2018,July,NA
+16,Idaho,ID,2018,August,NA
+16,Idaho,ID,2018,September,NA
+16,Idaho,ID,2018,October,NA
+16,Idaho,ID,2018,November,NA
+16,Idaho,ID,2018,December,NA
+16,Idaho,ID,2019,January,NA
+16,Idaho,ID,2019,February,NA
+16,Idaho,ID,2019,March,NA
+16,Idaho,ID,2019,April,3.486790874
+16,Idaho,ID,2019,May,NA
+16,Idaho,ID,2019,June,3.486790874
+16,Idaho,ID,2019,July,4.649054499
+16,Idaho,ID,2019,August,NA
+16,Idaho,ID,2019,September,NA
+16,Idaho,ID,2019,October,NA
+16,Idaho,ID,2019,November,NA
+16,Idaho,ID,2019,December,NA
+16,Idaho,ID,2020,January,NA
+16,Idaho,ID,2020,February,NA
+16,Idaho,ID,2020,March,NA
+16,Idaho,ID,2020,April,NA
+16,Idaho,ID,2020,May,NA
+16,Idaho,ID,2020,June,2.13847937
+16,Idaho,ID,2020,July,1.710783496
+16,Idaho,ID,2020,August,NA
+16,Idaho,ID,2020,September,NA
+16,Idaho,ID,2020,October,NA
+16,Idaho,ID,2020,November,1.283087622
+16,Idaho,ID,2020,December,NA
+16,Idaho,ID,2021,January,NA
+16,Idaho,ID,2021,February,2.04451314
+16,Idaho,ID,2021,March,NA
+16,Idaho,ID,2021,April,NA
+16,Idaho,ID,2021,May,NA
+16,Idaho,ID,2021,June,1.828574772
+16,Idaho,ID,2021,July,NA
+16,Idaho,ID,2021,August,1.6356172
+16,Idaho,ID,2021,September,NA
+16,Idaho,ID,2021,October,1.829698941
+16,Idaho,ID,2021,November,0.365939788
+16,Idaho,ID,2021,December,1.097819365
+17,Illinois,IL,2016,January,2.724208877
+17,Illinois,IL,2016,February,1.556690787
+17,Illinois,IL,2016,March,3.567416386
+17,Illinois,IL,2016,April,4.151175431
+17,Illinois,IL,2016,May,5.188969289
+17,Illinois,IL,2016,June,6.745660076
+17,Illinois,IL,2016,July,4.994382941
+17,Illinois,IL,2016,August,4.410623896
+17,Illinois,IL,2016,September,3.17824369
+17,Illinois,IL,2016,October,3.567416386
+17,Illinois,IL,2016,November,2.464760412
+17,Illinois,IL,2016,December,2.0107256
+17,Illinois,IL,2017,January,1.641629215
+17,Illinois,IL,2017,February,1.563456396
+17,Illinois,IL,2017,March,2.501530233
+17,Illinois,IL,2017,April,3.67412253
+17,Illinois,IL,2017,May,5.550270204
+17,Illinois,IL,2017,June,5.472097385
+17,Illinois,IL,2017,July,5.706615844
+17,Illinois,IL,2017,August,5.472097385
+17,Illinois,IL,2017,September,3.752295349
+17,Illinois,IL,2017,October,3.67412253
+17,Illinois,IL,2017,November,2.814221512
+17,Illinois,IL,2017,December,1.954320494
+17,Illinois,IL,2018,January,2.149774811
+17,Illinois,IL,2018,February,1.322938345
+17,Illinois,IL,2018,March,1.736356578
+17,Illinois,IL,2018,April,3.059294923
+17,Illinois,IL,2018,May,4.134182329
+17,Illinois,IL,2018,June,4.630284208
+17,Illinois,IL,2018,July,4.547600562
+17,Illinois,IL,2018,August,3.968815036
+17,Illinois,IL,2018,September,2.232458458
+17,Illinois,IL,2018,October,2.232458458
+17,Illinois,IL,2018,November,1.901723871
+17,Illinois,IL,2018,December,2.067091165
+17,Illinois,IL,2019,January,1.937503192
+17,Illinois,IL,2019,February,1.497161558
+17,Illinois,IL,2019,March,1.937503192
+17,Illinois,IL,2019,April,3.43466475
+17,Illinois,IL,2019,May,3.786938058
+17,Illinois,IL,2019,June,4.403416347
+17,Illinois,IL,2019,July,3.786938058
+17,Illinois,IL,2019,August,3.17045977
+17,Illinois,IL,2019,September,3.17045977
+17,Illinois,IL,2019,October,2.465913154
+17,Illinois,IL,2019,November,1.937503192
+17,Illinois,IL,2019,December,2.113639846
+17,Illinois,IL,2020,January,0.484369399
+17,Illinois,IL,2020,February,0.670665322
+17,Illinois,IL,2020,March,1.30407146
+17,Illinois,IL,2020,April,1.229553091
+17,Illinois,IL,2020,May,3.055253135
+17,Illinois,IL,2020,June,3.837696011
+17,Illinois,IL,2020,July,3.017993951
+17,Illinois,IL,2020,August,3.017993951
+17,Illinois,IL,2020,September,1.751181675
+17,Illinois,IL,2020,October,1.751181675
+17,Illinois,IL,2020,November,1.080516353
+17,Illinois,IL,2020,December,1.192293906
+17,Illinois,IL,2021,January,1.2767207
+17,Illinois,IL,2021,February,0.957540525
+17,Illinois,IL,2021,March,1.170327309
+17,Illinois,IL,2021,April,2.72454162
+17,Illinois,IL,2021,May,3.052799647
+17,Illinois,IL,2021,June,3.906270516
+17,Illinois,IL,2021,July,5.740046846
+17,Illinois,IL,2021,August,3.200510969
+17,Illinois,IL,2021,September,2.261230576
+17,Illinois,IL,2021,October,3.069472392
+17,Illinois,IL,2021,November,2.148630674
+17,Illinois,IL,2021,December,2.182735923
+18,Indiana,IN,2016,January,2.781331702
+18,Indiana,IN,2016,February,0.83439951
+18,Indiana,IN,2016,March,1.668799021
+18,Indiana,IN,2016,April,1.112532681
+18,Indiana,IN,2016,May,3.337598042
+18,Indiana,IN,2016,June,3.337598042
+18,Indiana,IN,2016,July,2.781331702
+18,Indiana,IN,2016,August,2.225065361
+18,Indiana,IN,2016,September,1.112532681
+18,Indiana,IN,2016,October,1.946932191
+18,Indiana,IN,2016,November,0.83439951
+18,Indiana,IN,2016,December,NA
+18,Indiana,IN,2017,January,1.478021816
+18,Indiana,IN,2017,February,1.478021816
+18,Indiana,IN,2017,March,1.478021816
+18,Indiana,IN,2017,April,3.547252357
+18,Indiana,IN,2017,May,3.842856721
+18,Indiana,IN,2017,June,4.434065447
+18,Indiana,IN,2017,July,4.434065447
+18,Indiana,IN,2017,August,1.478021816
+18,Indiana,IN,2017,September,1.773626179
+18,Indiana,IN,2017,October,2.069230542
+18,Indiana,IN,2017,November,1.182417452
+18,Indiana,IN,2017,December,1.182417452
+18,Indiana,IN,2018,January,NA
+18,Indiana,IN,2018,February,NA
+18,Indiana,IN,2018,March,1.535880078
+18,Indiana,IN,2018,April,1.919850098
+18,Indiana,IN,2018,May,1.535880078
+18,Indiana,IN,2018,June,4.607640235
+18,Indiana,IN,2018,July,2.687790137
+18,Indiana,IN,2018,August,1.535880078
+18,Indiana,IN,2018,September,2.303820118
+18,Indiana,IN,2018,October,1.535880078
+18,Indiana,IN,2018,November,1.535880078
+18,Indiana,IN,2018,December,1.535880078
+18,Indiana,IN,2019,January,1.112821559
+18,Indiana,IN,2019,February,NA
+18,Indiana,IN,2019,March,NA
+18,Indiana,IN,2019,April,4.080345717
+18,Indiana,IN,2019,May,5.935048315
+18,Indiana,IN,2019,June,1.854702598
+18,Indiana,IN,2019,July,4.080345717
+18,Indiana,IN,2019,August,2.225643118
+18,Indiana,IN,2019,September,1.483762079
+18,Indiana,IN,2019,October,3.338464677
+18,Indiana,IN,2019,November,NA
+18,Indiana,IN,2019,December,1.483762079
+18,Indiana,IN,2020,January,NA
+18,Indiana,IN,2020,February,NA
+18,Indiana,IN,2020,March,1.081843635
+18,Indiana,IN,2020,April,1.839134179
+18,Indiana,IN,2020,May,2.704609087
+18,Indiana,IN,2020,June,3.786452721
+18,Indiana,IN,2020,July,3.245530904
+18,Indiana,IN,2020,August,3.245530904
+18,Indiana,IN,2020,September,1.081843635
+18,Indiana,IN,2020,October,1.514581089
+18,Indiana,IN,2020,November,1.190027998
+18,Indiana,IN,2020,December,2.163687269
+18,Indiana,IN,2021,January,1.212884472
+18,Indiana,IN,2021,February,1.51610559
+18,Indiana,IN,2021,March,1.718253002
+18,Indiana,IN,2021,April,2.702836627
+18,Indiana,IN,2021,May,2.702836627
+18,Indiana,IN,2021,June,3.063214844
+18,Indiana,IN,2021,July,5.095541401
+18,Indiana,IN,2021,August,3.335263463
+18,Indiana,IN,2021,September,1.574985524
+18,Indiana,IN,2021,October,3.652453405
+18,Indiana,IN,2021,November,1.65230035
+18,Indiana,IN,2021,December,0.869631763
+19,Iowa,IA,2016,January,3.355543838
+19,Iowa,IA,2016,February,1.438090216
+19,Iowa,IA,2016,March,2.876180432
+19,Iowa,IA,2016,April,5.272997459
+19,Iowa,IA,2016,May,5.272997459
+19,Iowa,IA,2016,June,7.669814486
+19,Iowa,IA,2016,July,4.314270649
+19,Iowa,IA,2016,August,2.396817027
+19,Iowa,IA,2016,September,2.396817027
+19,Iowa,IA,2016,October,1.917453622
+19,Iowa,IA,2016,November,2.396817027
+19,Iowa,IA,2016,December,1.917453622
+19,Iowa,IA,2017,January,NA
+19,Iowa,IA,2017,February,1.802029085
+19,Iowa,IA,2017,March,NA
+19,Iowa,IA,2017,April,3.604058169
+19,Iowa,IA,2017,May,9.010145424
+19,Iowa,IA,2017,June,7.208116339
+19,Iowa,IA,2017,July,6.006763616
+19,Iowa,IA,2017,August,3.003381808
+19,Iowa,IA,2017,September,2.402705446
+19,Iowa,IA,2017,October,2.402705446
+19,Iowa,IA,2017,November,1.802029085
+19,Iowa,IA,2017,December,NA
+19,Iowa,IA,2018,January,NA
+19,Iowa,IA,2018,February,NA
+19,Iowa,IA,2018,March,NA
+19,Iowa,IA,2018,April,NA
+19,Iowa,IA,2018,May,4.105740412
+19,Iowa,IA,2018,June,8.798015168
+19,Iowa,IA,2018,July,5.865343445
+19,Iowa,IA,2018,August,4.105740412
+19,Iowa,IA,2018,September,1.759603034
+19,Iowa,IA,2018,October,2.346137378
+19,Iowa,IA,2018,November,NA
+19,Iowa,IA,2018,December,NA
+19,Iowa,IA,2019,January,2.763117902
+19,Iowa,IA,2019,February,NA
+19,Iowa,IA,2019,March,1.657870741
+19,Iowa,IA,2019,April,NA
+19,Iowa,IA,2019,May,2.763117902
+19,Iowa,IA,2019,June,4.973612224
+19,Iowa,IA,2019,July,2.763117902
+19,Iowa,IA,2019,August,6.631482965
+19,Iowa,IA,2019,September,3.315741483
+19,Iowa,IA,2019,October,2.763117902
+19,Iowa,IA,2019,November,NA
+19,Iowa,IA,2019,December,1.657870741
+19,Iowa,IA,2020,January,NA
+19,Iowa,IA,2020,February,NA
+19,Iowa,IA,2020,March,0.77385455
+19,Iowa,IA,2020,April,1.5477091
+19,Iowa,IA,2020,May,4.449663663
+19,Iowa,IA,2020,June,3.675809113
+19,Iowa,IA,2020,July,4.836590939
+19,Iowa,IA,2020,August,1.934636375
+19,Iowa,IA,2020,September,1.741172738
+19,Iowa,IA,2020,October,1.741172738
+19,Iowa,IA,2020,November,0.967318188
+19,Iowa,IA,2020,December,0.580390913
+19,Iowa,IA,2021,January,1.145274217
+19,Iowa,IA,2021,February,1.336153253
+19,Iowa,IA,2021,March,1.336153253
+19,Iowa,IA,2021,April,1.567564649
+19,Iowa,IA,2021,May,6.270258596
+19,Iowa,IA,2021,June,5.747737046
+19,Iowa,IA,2021,July,6.461128925
+19,Iowa,IA,2021,August,3.876677355
+19,Iowa,IA,2021,September,1.292225785
+19,Iowa,IA,2021,October,2.426259055
+19,Iowa,IA,2021,November,1.213129528
+19,Iowa,IA,2021,December,0.519912655
+20,Kansas,KS,2016,January,2.809172886
+20,Kansas,KS,2016,February,NA
+20,Kansas,KS,2016,March,NA
+20,Kansas,KS,2016,April,1.638684183
+20,Kansas,KS,2016,May,2.575075145
+20,Kansas,KS,2016,June,1.872781924
+20,Kansas,KS,2016,July,1.404586443
+20,Kansas,KS,2016,August,1.404586443
+20,Kansas,KS,2016,September,0.702293221
+20,Kansas,KS,2016,October,1.404586443
+20,Kansas,KS,2016,November,0.936390962
+20,Kansas,KS,2016,December,0.936390962
+20,Kansas,KS,2017,January,0.917369474
+20,Kansas,KS,2017,February,0.917369474
+20,Kansas,KS,2017,March,0.917369474
+20,Kansas,KS,2017,April,1.528949123
+20,Kansas,KS,2017,May,2.140528772
+20,Kansas,KS,2017,June,3.36368807
+20,Kansas,KS,2017,July,1.834738947
+20,Kansas,KS,2017,August,2.140528772
+20,Kansas,KS,2017,September,2.752108421
+20,Kansas,KS,2017,October,3.057898245
+20,Kansas,KS,2017,November,1.223159298
+20,Kansas,KS,2017,December,1.223159298
+20,Kansas,KS,2018,January,1.599237484
+20,Kansas,KS,2018,February,1.279389987
+20,Kansas,KS,2018,March,1.599237484
+20,Kansas,KS,2018,April,0.95954249
+20,Kansas,KS,2018,May,1.91908498
+20,Kansas,KS,2018,June,2.238932477
+20,Kansas,KS,2018,July,1.91908498
+20,Kansas,KS,2018,August,2.238932477
+20,Kansas,KS,2018,September,1.91908498
+20,Kansas,KS,2018,October,1.279389987
+20,Kansas,KS,2018,November,1.279389987
+20,Kansas,KS,2018,December,NA
+20,Kansas,KS,2019,January,NA
+20,Kansas,KS,2019,February,NA
+20,Kansas,KS,2019,March,0.891212643
+20,Kansas,KS,2019,April,1.782425287
+20,Kansas,KS,2019,May,1.782425287
+20,Kansas,KS,2019,June,3.267779692
+20,Kansas,KS,2019,July,1.782425287
+20,Kansas,KS,2019,August,2.376567049
+20,Kansas,KS,2019,September,1.782425287
+20,Kansas,KS,2019,October,0.891212643
+20,Kansas,KS,2019,November,NA
+20,Kansas,KS,2019,December,0.891212643
+20,Kansas,KS,2020,January,0.398490518
+20,Kansas,KS,2020,February,0.664150863
+20,Kansas,KS,2020,March,0.796981036
+20,Kansas,KS,2020,April,1.726792244
+20,Kansas,KS,2020,May,1.593962072
+20,Kansas,KS,2020,June,1.99245259
+20,Kansas,KS,2020,July,1.593962072
+20,Kansas,KS,2020,August,0.929811208
+20,Kansas,KS,2020,September,0.531320691
+20,Kansas,KS,2020,October,0.531320691
+20,Kansas,KS,2020,November,0.796981036
+20,Kansas,KS,2020,December,0.929811208
+20,Kansas,KS,2021,January,0.760607624
+20,Kansas,KS,2021,February,0.760607624
+20,Kansas,KS,2021,March,1.267679373
+20,Kansas,KS,2021,April,1.372512464
+20,Kansas,KS,2021,May,1.601264541
+20,Kansas,KS,2021,June,0.800632271
+20,Kansas,KS,2021,July,1.876896692
+20,Kansas,KS,2021,August,1.290366476
+20,Kansas,KS,2021,September,NA
+20,Kansas,KS,2021,October,1.044975757
+20,Kansas,KS,2021,November,0.232216835
+20,Kansas,KS,2021,December,0.812758922
+21,Kentucky,KY,2016,January,NA
+21,Kentucky,KY,2016,February,NA
+21,Kentucky,KY,2016,March,NA
+21,Kentucky,KY,2016,April,2.651693438
+21,Kentucky,KY,2016,May,2.651693438
+21,Kentucky,KY,2016,June,NA
+21,Kentucky,KY,2016,July,NA
+21,Kentucky,KY,2016,August,NA
+21,Kentucky,KY,2016,September,NA
+21,Kentucky,KY,2016,October,NA
+21,Kentucky,KY,2016,November,NA
+21,Kentucky,KY,2016,December,NA
+21,Kentucky,KY,2017,January,NA
+21,Kentucky,KY,2017,February,NA
+21,Kentucky,KY,2017,March,NA
+21,Kentucky,KY,2017,April,NA
+21,Kentucky,KY,2017,May,NA
+21,Kentucky,KY,2017,June,3.474454076
+21,Kentucky,KY,2017,July,5.211681115
+21,Kentucky,KY,2017,August,NA
+21,Kentucky,KY,2017,September,NA
+21,Kentucky,KY,2017,October,NA
+21,Kentucky,KY,2017,November,NA
+21,Kentucky,KY,2017,December,NA
+21,Kentucky,KY,2018,January,NA
+21,Kentucky,KY,2018,February,NA
+21,Kentucky,KY,2018,March,NA
+21,Kentucky,KY,2018,April,NA
+21,Kentucky,KY,2018,May,2.666571855
+21,Kentucky,KY,2018,June,NA
+21,Kentucky,KY,2018,July,2.666571855
+21,Kentucky,KY,2018,August,NA
+21,Kentucky,KY,2018,September,NA
+21,Kentucky,KY,2018,October,NA
+21,Kentucky,KY,2018,November,NA
+21,Kentucky,KY,2018,December,NA
+21,Kentucky,KY,2019,January,NA
+21,Kentucky,KY,2019,February,NA
+21,Kentucky,KY,2019,March,NA
+21,Kentucky,KY,2019,April,NA
+21,Kentucky,KY,2019,May,NA
+21,Kentucky,KY,2019,June,NA
+21,Kentucky,KY,2019,July,NA
+21,Kentucky,KY,2019,August,NA
+21,Kentucky,KY,2019,September,2.4029412
+21,Kentucky,KY,2019,October,NA
+21,Kentucky,KY,2019,November,NA
+21,Kentucky,KY,2019,December,NA
+21,Kentucky,KY,2020,January,NA
+21,Kentucky,KY,2020,February,NA
+21,Kentucky,KY,2020,March,0.962925974
+21,Kentucky,KY,2020,April,0.687804267
+21,Kentucky,KY,2020,May,5.227312432
+21,Kentucky,KY,2020,June,1.925851949
+21,Kentucky,KY,2020,July,1.238047681
+21,Kentucky,KY,2020,August,1.513169388
+21,Kentucky,KY,2020,September,1.100486828
+21,Kentucky,KY,2020,October,1.238047681
+21,Kentucky,KY,2020,November,NA
+21,Kentucky,KY,2020,December,NA
+21,Kentucky,KY,2021,January,NA
+21,Kentucky,KY,2021,February,NA
+21,Kentucky,KY,2021,March,0.66734647
+21,Kentucky,KY,2021,April,0.822349485
+21,Kentucky,KY,2021,May,1.973638765
+21,Kentucky,KY,2021,June,0.986819382
+21,Kentucky,KY,2021,July,1.782632877
+21,Kentucky,KY,2021,August,1.960896165
+21,Kentucky,KY,2021,September,1.069579726
+21,Kentucky,KY,2021,October,0.342366092
+21,Kentucky,KY,2021,November,0.85591523
+21,Kentucky,KY,2021,December,0.171183046
+22,Louisiana,LA,2016,January,NA
+22,Louisiana,LA,2016,February,1.53635791
+22,Louisiana,LA,2016,March,3.07271582
+22,Louisiana,LA,2016,April,NA
+22,Louisiana,LA,2016,May,NA
+22,Louisiana,LA,2016,June,1.53635791
+22,Louisiana,LA,2016,July,NA
+22,Louisiana,LA,2016,August,NA
+22,Louisiana,LA,2016,September,2.560596517
+22,Louisiana,LA,2016,October,NA
+22,Louisiana,LA,2016,November,1.53635791
+22,Louisiana,LA,2016,December,NA
+22,Louisiana,LA,2017,January,2.161309321
+22,Louisiana,LA,2017,February,NA
+22,Louisiana,LA,2017,March,NA
+22,Louisiana,LA,2017,April,2.701636651
+22,Louisiana,LA,2017,May,NA
+22,Louisiana,LA,2017,June,NA
+22,Louisiana,LA,2017,July,2.161309321
+22,Louisiana,LA,2017,August,NA
+22,Louisiana,LA,2017,September,3.241963982
+22,Louisiana,LA,2017,October,NA
+22,Louisiana,LA,2017,November,NA
+22,Louisiana,LA,2017,December,NA
+22,Louisiana,LA,2018,January,NA
+22,Louisiana,LA,2018,February,NA
+22,Louisiana,LA,2018,March,2.361010276
+22,Louisiana,LA,2018,April,1.770757707
+22,Louisiana,LA,2018,May,NA
+22,Louisiana,LA,2018,June,NA
+22,Louisiana,LA,2018,July,NA
+22,Louisiana,LA,2018,August,NA
+22,Louisiana,LA,2018,September,2.361010276
+22,Louisiana,LA,2018,October,NA
+22,Louisiana,LA,2018,November,NA
+22,Louisiana,LA,2018,December,NA
+22,Louisiana,LA,2019,January,NA
+22,Louisiana,LA,2019,February,NA
+22,Louisiana,LA,2019,March,NA
+22,Louisiana,LA,2019,April,NA
+22,Louisiana,LA,2019,May,1.756923744
+22,Louisiana,LA,2019,June,NA
+22,Louisiana,LA,2019,July,NA
+22,Louisiana,LA,2019,August,NA
+22,Louisiana,LA,2019,September,NA
+22,Louisiana,LA,2019,October,NA
+22,Louisiana,LA,2019,November,1.756923744
+22,Louisiana,LA,2019,December,NA
+22,Louisiana,LA,2020,January,NA
+22,Louisiana,LA,2020,February,NA
+22,Louisiana,LA,2020,March,0.991970987
+22,Louisiana,LA,2020,April,NA
+22,Louisiana,LA,2020,May,0.991970987
+22,Louisiana,LA,2020,June,0.793576789
+22,Louisiana,LA,2020,July,2.380730368
+22,Louisiana,LA,2020,August,1.190365184
+22,Louisiana,LA,2020,September,0.793576789
+22,Louisiana,LA,2020,October,NA
+22,Louisiana,LA,2020,November,NA
+22,Louisiana,LA,2020,December,NA
+22,Louisiana,LA,2021,January,0.786690766
+22,Louisiana,LA,2021,February,0.786690766
+22,Louisiana,LA,2021,March,NA
+22,Louisiana,LA,2021,April,0.918376531
+22,Louisiana,LA,2021,May,1.469402449
+22,Louisiana,LA,2021,June,1.285727143
+22,Louisiana,LA,2021,July,2.112492126
+22,Louisiana,LA,2021,August,NA
+22,Louisiana,LA,2021,September,0.960223694
+22,Louisiana,LA,2021,October,1.618440147
+22,Louisiana,LA,2021,November,0.539480049
+22,Louisiana,LA,2021,December,0.539480049
+23,Maine,ME,2016,January,4.212559259
+23,Maine,ME,2016,February,4.536602279
+23,Maine,ME,2016,March,6.156817379
+23,Maine,ME,2016,April,5.508731339
+23,Maine,ME,2016,May,11.3415057
+23,Maine,ME,2016,June,18.79449516
+23,Maine,ME,2016,July,11.01746268
+23,Maine,ME,2016,August,7.128946439
+23,Maine,ME,2016,September,7.128946439
+23,Maine,ME,2016,October,8.101075499
+23,Maine,ME,2016,November,5.184688319
+23,Maine,ME,2016,December,3.2404302
+23,Maine,ME,2017,January,2.546220984
+23,Maine,ME,2017,February,2.546220984
+23,Maine,ME,2017,March,4.809528525
+23,Maine,ME,2017,April,7.921576394
+23,Maine,ME,2017,May,14.42858557
+23,Maine,ME,2017,June,20.36976787
+23,Maine,ME,2017,July,15.56023934
+23,Maine,ME,2017,August,13.2969318
+23,Maine,ME,2017,September,8.204489836
+23,Maine,ME,2017,October,7.072836066
+23,Maine,ME,2017,November,5.092441967
+23,Maine,ME,2017,December,1.980394098
+23,Maine,ME,2018,January,1.698369565
+23,Maine,ME,2018,February,3.39673913
+23,Maine,ME,2018,March,3.736413043
+23,Maine,ME,2018,April,7.8125
+23,Maine,ME,2018,May,13.24728261
+23,Maine,ME,2018,June,19.02173913
+23,Maine,ME,2018,July,13.92663043
+23,Maine,ME,2018,August,8.831521739
+23,Maine,ME,2018,September,5.774456522
+23,Maine,ME,2018,October,5.095108696
+23,Maine,ME,2018,November,2.377717391
+23,Maine,ME,2018,December,3.057065217
+23,Maine,ME,2019,January,5.108226288
+23,Maine,ME,2019,February,2.043290515
+23,Maine,ME,2019,March,4.08658103
+23,Maine,ME,2019,April,5.789323126
+23,Maine,ME,2019,May,8.854258899
+23,Maine,ME,2019,June,19.41125989
+23,Maine,ME,2019,July,16.0057757
+23,Maine,ME,2019,August,12.94083993
+23,Maine,ME,2019,September,7.492065222
+23,Maine,ME,2019,October,9.535355737
+23,Maine,ME,2019,November,3.405484192
+23,Maine,ME,2019,December,3.405484192
+23,Maine,ME,2020,January,2.631131548
+23,Maine,ME,2020,February,3.238315752
+23,Maine,ME,2020,March,4.04789469
+23,Maine,ME,2020,April,4.452684159
+23,Maine,ME,2020,May,8.09578938
+23,Maine,ME,2020,June,11.53649987
+23,Maine,ME,2020,July,11.7388946
+23,Maine,ME,2020,August,5.262263097
+23,Maine,ME,2020,September,5.464657831
+23,Maine,ME,2020,October,7.286210442
+23,Maine,ME,2020,November,3.035921017
+23,Maine,ME,2020,December,3.238315752
+23,Maine,ME,2021,January,3.381488231
+23,Maine,ME,2021,February,1.502883658
+23,Maine,ME,2021,March,2.630046402
+23,Maine,ME,2021,April,7.234599557
+23,Maine,ME,2021,May,11.77725509
+23,Maine,ME,2021,June,13.62796661
+23,Maine,ME,2021,July,19.97213565
+23,Maine,ME,2021,August,9.502870994
+23,Maine,ME,2021,September,4.993033912
+23,Maine,ME,2021,October,8.444084713
+23,Maine,ME,2021,November,18.22686578
+23,Maine,ME,2021,December,6.281575213
+24,Maryland,MD,2016,January,6.812200031
+24,Maryland,MD,2016,February,7.121845487
+24,Maryland,MD,2016,March,8.050781855
+24,Maryland,MD,2016,April,12.38581824
+24,Maryland,MD,2016,May,19.50766373
+24,Maryland,MD,2016,June,24.46199102
+24,Maryland,MD,2016,July,19.19801827
+24,Maryland,MD,2016,August,14.24369097
+24,Maryland,MD,2016,September,13.93404552
+24,Maryland,MD,2016,October,7.741136399
+24,Maryland,MD,2016,November,6.192909119
+24,Maryland,MD,2016,December,5.263972751
+24,Maryland,MD,2017,January,5.366381828
+24,Maryland,MD,2017,February,6.944729424
+24,Maryland,MD,2017,March,7.891737982
+24,Maryland,MD,2017,April,11.99544173
+24,Maryland,MD,2017,May,17.36182356
+24,Maryland,MD,2017,June,24.93789202
+24,Maryland,MD,2017,July,14.52079789
+24,Maryland,MD,2017,August,13.88945885
+24,Maryland,MD,2017,September,10.73276366
+24,Maryland,MD,2017,October,11.36410269
+24,Maryland,MD,2017,November,3.472364712
+24,Maryland,MD,2017,December,6.629059905
+24,Maryland,MD,2018,January,5.343325352
+24,Maryland,MD,2018,February,3.673536179
+24,Maryland,MD,2018,March,5.343325352
+24,Maryland,MD,2018,April,11.02060854
+24,Maryland,MD,2018,May,13.35831338
+24,Maryland,MD,2018,June,24.04496408
+24,Maryland,MD,2018,July,12.02248204
+24,Maryland,MD,2018,August,13.69227121
+24,Maryland,MD,2018,September,6.345198855
+24,Maryland,MD,2018,October,8.348945862
+24,Maryland,MD,2018,November,5.343325352
+24,Maryland,MD,2018,December,4.007494014
+24,Maryland,MD,2019,January,5.396726885
+24,Maryland,MD,2019,February,2.023772582
+24,Maryland,MD,2019,March,6.071317746
+24,Maryland,MD,2019,April,11.1307492
+24,Maryland,MD,2019,May,14.84099893
+24,Maryland,MD,2019,June,11.80534006
+24,Maryland,MD,2019,July,8.769681188
+24,Maryland,MD,2019,August,6.745908606
+24,Maryland,MD,2019,September,8.095090328
+24,Maryland,MD,2019,October,5.734022315
+24,Maryland,MD,2019,November,2.698363443
+24,Maryland,MD,2019,December,2.698363443
+24,Maryland,MD,2020,January,1.685236096
+24,Maryland,MD,2020,February,1.235839804
+24,Maryland,MD,2020,March,5.50510458
+24,Maryland,MD,2020,April,8.313831407
+24,Maryland,MD,2020,May,14.94242672
+24,Maryland,MD,2020,June,20.11048408
+24,Maryland,MD,2020,July,15.05477579
+24,Maryland,MD,2020,August,9.54967121
+24,Maryland,MD,2020,September,8.538529553
+24,Maryland,MD,2020,October,6.853293457
+24,Maryland,MD,2020,November,6.853293457
+24,Maryland,MD,2020,December,3.932217557
+24,Maryland,MD,2021,January,4.443611117
+24,Maryland,MD,2021,February,3.793326563
+24,Maryland,MD,2021,March,5.202276429
+24,Maryland,MD,2021,April,11.13743497
+24,Maryland,MD,2021,May,11.82131256
+24,Maryland,MD,2021,June,16.11997167
+24,Maryland,MD,2021,July,19.38227777
+24,Maryland,MD,2021,August,14.76266752
+24,Maryland,MD,2021,September,7.632399536
+24,Maryland,MD,2021,October,9.937018232
+24,Maryland,MD,2021,November,3.690892486
+24,Maryland,MD,2021,December,4.069445562
+25,Massachusetts,MA,2016,January,29.90564711
+25,Massachusetts,MA,2016,February,24.62370944
+25,Massachusetts,MA,2016,March,29.79164846
+25,Massachusetts,MA,2016,April,33.74360183
+25,Massachusetts,MA,2016,May,56.54333279
+25,Massachusetts,MA,2016,June,75.88510456
+25,Massachusetts,MA,2016,July,63.64924894
+25,Massachusetts,MA,2016,August,35.64357941
+25,Massachusetts,MA,2016,September,25.38370047
+25,Massachusetts,MA,2016,October,29.98164622
+25,Massachusetts,MA,2016,November,22.22973769
+25,Massachusetts,MA,2016,December,13.71783813
+25,Massachusetts,MA,2017,January,12.55480409
+25,Massachusetts,MA,2017,February,12.29932843
+25,Massachusetts,MA,2017,March,16.89789039
+25,Massachusetts,MA,2017,April,31.4964998
+25,Massachusetts,MA,2017,May,50.91265032
+25,Massachusetts,MA,2017,June,69.8178495
+25,Massachusetts,MA,2017,July,68.24849899
+25,Massachusetts,MA,2017,August,36.42353048
+25,Massachusetts,MA,2017,September,25.51106994
+25,Massachusetts,MA,2017,October,30.14612843
+25,Massachusetts,MA,2017,November,19.37965399
+25,Massachusetts,MA,2017,December,11.71538405
+25,Massachusetts,MA,2018,January,9.783675266
+25,Massachusetts,MA,2018,February,9.272110547
+25,Massachusetts,MA,2018,March,11.12653266
+25,Massachusetts,MA,2018,April,19.53537774
+25,Massachusetts,MA,2018,May,36.32109511
+25,Massachusetts,MA,2018,June,54.96123458
+25,Massachusetts,MA,2018,July,50.26123372
+25,Massachusetts,MA,2018,August,32.00476778
+25,Massachusetts,MA,2018,September,22.22109252
+25,Massachusetts,MA,2018,October,21.64558221
+25,Massachusetts,MA,2018,November,13.49251949
+25,Massachusetts,MA,2018,December,8.280953902
+25,Massachusetts,MA,2019,January,8.627273454
+25,Massachusetts,MA,2019,February,7.290205243
+25,Massachusetts,MA,2019,March,11.61975945
+25,Massachusetts,MA,2019,April,18.90996469
+25,Massachusetts,MA,2019,May,31.96229722
+25,Massachusetts,MA,2019,June,47.68876618
+25,Massachusetts,MA,2019,July,49.02583439
+25,Massachusetts,MA,2019,August,30.65706397
+25,Massachusetts,MA,2019,September,18.81445982
+25,Massachusetts,MA,2019,October,19.76950854
+25,Massachusetts,MA,2019,November,11.90627407
+25,Massachusetts,MA,2019,December,8.722778326
+25,Massachusetts,MA,2020,January,8.662981662
+25,Massachusetts,MA,2020,February,7.849186415
+25,Massachusetts,MA,2020,March,9.056753555
+25,Massachusetts,MA,2020,April,11.89191119
+25,Massachusetts,MA,2020,May,22.65500962
+25,Massachusetts,MA,2020,June,41.81857511
+25,Massachusetts,MA,2020,July,41.34604884
+25,Massachusetts,MA,2020,August,23.02253005
+25,Massachusetts,MA,2020,September,14.8058232
+25,Massachusetts,MA,2020,October,17.32596332
+25,Massachusetts,MA,2020,November,13.38824439
+25,Massachusetts,MA,2020,December,6.615367814
+25,Massachusetts,MA,2021,January,6.664920235
+25,Massachusetts,MA,2021,February,5.661322207
+25,Massachusetts,MA,2021,March,10.75651219
+25,Massachusetts,MA,2021,April,16.30181305
+25,Massachusetts,MA,2021,May,20.6604549
+25,Massachusetts,MA,2021,June,36.05113943
+25,Massachusetts,MA,2021,July,41.32409751
+25,Massachusetts,MA,2021,August,18.95054651
+25,Massachusetts,MA,2021,September,13.14632154
+25,Massachusetts,MA,2021,October,24.12715399
+25,Massachusetts,MA,2021,November,12.47704637
+25,Massachusetts,MA,2021,December,7.90456154
+26,Michigan,MI,2016,January,2.407376201
+26,Michigan,MI,2016,February,2.808605567
+26,Michigan,MI,2016,March,2.006146834
+26,Michigan,MI,2016,April,NA
+26,Michigan,MI,2016,May,4.814752401
+26,Michigan,MI,2016,June,2.808605567
+26,Michigan,MI,2016,July,4.012293668
+26,Michigan,MI,2016,August,2.407376201
+26,Michigan,MI,2016,September,2.407376201
+26,Michigan,MI,2016,October,1.604917467
+26,Michigan,MI,2016,November,NA
+26,Michigan,MI,2016,December,1.2036881
+26,Michigan,MI,2017,January,NA
+26,Michigan,MI,2017,February,1.21618499
+26,Michigan,MI,2017,March,2.026974983
+26,Michigan,MI,2017,April,1.621579986
+26,Michigan,MI,2017,May,2.837764976
+26,Michigan,MI,2017,June,4.053949966
+26,Michigan,MI,2017,July,5.270134956
+26,Michigan,MI,2017,August,3.243159973
+26,Michigan,MI,2017,September,1.621579986
+26,Michigan,MI,2017,October,2.837764976
+26,Michigan,MI,2017,November,NA
+26,Michigan,MI,2017,December,1.621579986
+26,Michigan,MI,2018,January,1.208074772
+26,Michigan,MI,2018,February,1.610766362
+26,Michigan,MI,2018,March,NA
+26,Michigan,MI,2018,April,2.013457953
+26,Michigan,MI,2018,May,4.429607497
+26,Michigan,MI,2018,June,3.221532725
+26,Michigan,MI,2018,July,3.624224315
+26,Michigan,MI,2018,August,2.416149544
+26,Michigan,MI,2018,September,3.221532725
+26,Michigan,MI,2018,October,2.416149544
+26,Michigan,MI,2018,November,NA
+26,Michigan,MI,2018,December,NA
+26,Michigan,MI,2019,January,1.107832747
+26,Michigan,MI,2019,February,1.477110329
+26,Michigan,MI,2019,March,NA
+26,Michigan,MI,2019,April,NA
+26,Michigan,MI,2019,May,2.584943076
+26,Michigan,MI,2019,June,2.954220658
+26,Michigan,MI,2019,July,2.215665494
+26,Michigan,MI,2019,August,3.32349824
+26,Michigan,MI,2019,September,1.477110329
+26,Michigan,MI,2019,October,1.477110329
+26,Michigan,MI,2019,November,NA
+26,Michigan,MI,2019,December,1.107832747
+26,Michigan,MI,2020,January,1.205632716
+26,Michigan,MI,2020,February,NA
+26,Michigan,MI,2020,March,0.535836763
+26,Michigan,MI,2020,April,0.937714335
+26,Michigan,MI,2020,May,3.616898148
+26,Michigan,MI,2020,June,4.420653292
+26,Michigan,MI,2020,July,3.215020576
+26,Michigan,MI,2020,August,2.947102195
+26,Michigan,MI,2020,September,1.205632716
+26,Michigan,MI,2020,October,1.205632716
+26,Michigan,MI,2020,November,1.071673525
+26,Michigan,MI,2020,December,1.071673525
+26,Michigan,MI,2021,January,0.660597101
+26,Michigan,MI,2021,February,0.660597101
+26,Michigan,MI,2021,March,1.453313621
+26,Michigan,MI,2021,April,1.192011615
+26,Michigan,MI,2021,May,2.38402323
+26,Michigan,MI,2021,June,5.006448783
+26,Michigan,MI,2021,July,7.014143891
+26,Michigan,MI,2021,August,2.467939517
+26,Michigan,MI,2021,September,1.948373303
+26,Michigan,MI,2021,October,3.420008939
+26,Michigan,MI,2021,November,1.29724477
+26,Michigan,MI,2021,December,1.179313427
+27,Minnesota,MN,2016,January,3.291097581
+27,Minnesota,MN,2016,February,1.410470392
+27,Minnesota,MN,2016,March,2.820940784
+27,Minnesota,MN,2016,April,6.582195162
+27,Minnesota,MN,2016,May,9.873292743
+27,Minnesota,MN,2016,June,14.57486072
+27,Minnesota,MN,2016,July,13.16439032
+27,Minnesota,MN,2016,August,7.992665554
+27,Minnesota,MN,2016,September,6.582195162
+27,Minnesota,MN,2016,October,4.231411176
+27,Minnesota,MN,2016,November,4.231411176
+27,Minnesota,MN,2016,December,1.410470392
+27,Minnesota,MN,2017,January,2.376177396
+27,Minnesota,MN,2017,February,NA
+27,Minnesota,MN,2017,March,3.801883833
+27,Minnesota,MN,2017,April,3.801883833
+27,Minnesota,MN,2017,May,9.979945063
+27,Minnesota,MN,2017,June,14.73229985
+27,Minnesota,MN,2017,July,14.25706438
+27,Minnesota,MN,2017,August,8.079003146
+27,Minnesota,MN,2017,September,6.178061229
+27,Minnesota,MN,2017,October,3.801883833
+27,Minnesota,MN,2017,November,1.425706438
+27,Minnesota,MN,2017,December,2.376177396
+27,Minnesota,MN,2018,January,3.797173953
+27,Minnesota,MN,2018,February,1.898586977
+27,Minnesota,MN,2018,March,NA
+27,Minnesota,MN,2018,April,2.373233721
+27,Minnesota,MN,2018,May,8.068994651
+27,Minnesota,MN,2018,June,16.1379893
+27,Minnesota,MN,2018,July,13.76475558
+27,Minnesota,MN,2018,August,4.271820697
+27,Minnesota,MN,2018,September,5.69576093
+27,Minnesota,MN,2018,October,4.271820697
+27,Minnesota,MN,2018,November,NA
+27,Minnesota,MN,2018,December,3.797173953
+27,Minnesota,MN,2019,January,1.817083309
+27,Minnesota,MN,2019,February,1.362812482
+27,Minnesota,MN,2019,March,1.362812482
+27,Minnesota,MN,2019,April,2.725624963
+27,Minnesota,MN,2019,May,4.996979099
+27,Minnesota,MN,2019,June,12.26531233
+27,Minnesota,MN,2019,July,13.17385399
+27,Minnesota,MN,2019,August,8.631145716
+27,Minnesota,MN,2019,September,4.996979099
+27,Minnesota,MN,2019,October,4.542708272
+27,Minnesota,MN,2019,November,2.271354136
+27,Minnesota,MN,2019,December,1.362812482
+27,Minnesota,MN,2020,January,0.537980046
+27,Minnesota,MN,2020,February,NA
+27,Minnesota,MN,2020,March,1.882930162
+27,Minnesota,MN,2020,April,4.034850347
+27,Minnesota,MN,2020,May,8.607680741
+27,Minnesota,MN,2020,June,12.23904605
+27,Minnesota,MN,2020,July,7.262730625
+27,Minnesota,MN,2020,August,6.186770533
+27,Minnesota,MN,2020,September,3.765860324
+27,Minnesota,MN,2020,October,2.958890255
+27,Minnesota,MN,2020,November,1.613940139
+27,Minnesota,MN,2020,December,0.537980046
+27,Minnesota,MN,2021,January,1.446129697
+27,Minnesota,MN,2021,February,1.709062369
+27,Minnesota,MN,2021,March,1.577596033
+27,Minnesota,MN,2021,April,2.24609121
+27,Minnesota,MN,2021,May,7.447565592
+27,Minnesota,MN,2021,June,10.04830278
+27,Minnesota,MN,2021,July,12.52384347
+27,Minnesota,MN,2021,August,4.455598158
+27,Minnesota,MN,2021,September,4.455598158
+27,Minnesota,MN,2021,October,6.093102608
+27,Minnesota,MN,2021,November,1.994106308
+27,Minnesota,MN,2021,December,1.107836838
+28,Mississippi,MS,2016,January,NA
+28,Mississippi,MS,2016,February,NA
+28,Mississippi,MS,2016,March,NA
+28,Mississippi,MS,2016,April,NA
+28,Mississippi,MS,2016,May,NA
+28,Mississippi,MS,2016,June,NA
+28,Mississippi,MS,2016,July,NA
+28,Mississippi,MS,2016,August,NA
+28,Mississippi,MS,2016,September,NA
+28,Mississippi,MS,2016,October,3.846942963
+28,Mississippi,MS,2016,November,NA
+28,Mississippi,MS,2016,December,NA
+28,Mississippi,MS,2017,January,NA
+28,Mississippi,MS,2017,February,NA
+28,Mississippi,MS,2017,March,NA
+28,Mississippi,MS,2017,April,NA
+28,Mississippi,MS,2017,May,3.535067873
+28,Mississippi,MS,2017,June,NA
+28,Mississippi,MS,2017,July,NA
+28,Mississippi,MS,2017,August,NA
+28,Mississippi,MS,2017,September,NA
+28,Mississippi,MS,2017,October,NA
+28,Mississippi,MS,2017,November,NA
+28,Mississippi,MS,2017,December,NA
+28,Mississippi,MS,2018,January,NA
+28,Mississippi,MS,2018,February,NA
+28,Mississippi,MS,2018,March,NA
+28,Mississippi,MS,2018,April,NA
+28,Mississippi,MS,2018,May,NA
+28,Mississippi,MS,2018,June,NA
+28,Mississippi,MS,2018,July,NA
+28,Mississippi,MS,2018,August,NA
+28,Mississippi,MS,2018,September,3.766714797
+28,Mississippi,MS,2018,October,NA
+28,Mississippi,MS,2018,November,NA
+28,Mississippi,MS,2018,December,NA
+28,Mississippi,MS,2019,January,NA
+28,Mississippi,MS,2019,February,NA
+28,Mississippi,MS,2019,March,NA
+28,Mississippi,MS,2019,April,NA
+28,Mississippi,MS,2019,May,NA
+28,Mississippi,MS,2019,June,NA
+28,Mississippi,MS,2019,July,NA
+28,Mississippi,MS,2019,August,NA
+28,Mississippi,MS,2019,September,NA
+28,Mississippi,MS,2019,October,NA
+28,Mississippi,MS,2019,November,NA
+28,Mississippi,MS,2019,December,NA
+28,Mississippi,MS,2020,January,NA
+28,Mississippi,MS,2020,February,NA
+28,Mississippi,MS,2020,March,NA
+28,Mississippi,MS,2020,April,NA
+28,Mississippi,MS,2020,May,1.701345764
+28,Mississippi,MS,2020,June,NA
+28,Mississippi,MS,2020,July,NA
+28,Mississippi,MS,2020,August,NA
+28,Mississippi,MS,2020,September,NA
+28,Mississippi,MS,2020,October,1.361076612
+28,Mississippi,MS,2020,November,NA
+28,Mississippi,MS,2020,December,NA
+28,Mississippi,MS,2021,January,1.336148152
+28,Mississippi,MS,2021,February,NA
+28,Mississippi,MS,2021,March,NA
+28,Mississippi,MS,2021,April,NA
+28,Mississippi,MS,2021,May,NA
+28,Mississippi,MS,2021,June,NA
+28,Mississippi,MS,2021,July,NA
+28,Mississippi,MS,2021,August,NA
+28,Mississippi,MS,2021,September,NA
+28,Mississippi,MS,2021,October,0.910141709
+28,Mississippi,MS,2021,November,0.30338057
+28,Mississippi,MS,2021,December,0
+29,Missouri,MO,2016,January,1.602838627
+29,Missouri,MO,2016,February,1.90337087
+29,Missouri,MO,2016,March,1.602838627
+29,Missouri,MO,2016,April,3.406032083
+29,Missouri,MO,2016,May,4.107273982
+29,Missouri,MO,2016,June,2.804967598
+29,Missouri,MO,2016,July,2.504435355
+29,Missouri,MO,2016,August,2.404257941
+29,Missouri,MO,2016,September,1.402483799
+29,Missouri,MO,2016,October,1.302306385
+29,Missouri,MO,2016,November,0.701241899
+29,Missouri,MO,2016,December,0.500887071
+29,Missouri,MO,2017,January,1.678649643
+29,Missouri,MO,2017,February,1.16214206
+29,Missouri,MO,2017,March,2.32428412
+29,Missouri,MO,2017,April,1.936903434
+29,Missouri,MO,2017,May,2.453411016
+29,Missouri,MO,2017,June,3.22817239
+29,Missouri,MO,2017,July,1.678649643
+29,Missouri,MO,2017,August,1.16214206
+29,Missouri,MO,2017,September,1.936903434
+29,Missouri,MO,2017,October,1.16214206
+29,Missouri,MO,2017,November,0.903888269
+29,Missouri,MO,2017,December,0.903888269
+29,Missouri,MO,2018,January,1.137231098
+29,Missouri,MO,2018,February,0.852923324
+29,Missouri,MO,2018,March,1.848000534
+29,Missouri,MO,2018,April,1.279384985
+29,Missouri,MO,2018,May,2.700923858
+29,Missouri,MO,2018,June,2.843077745
+29,Missouri,MO,2018,July,1.848000534
+29,Missouri,MO,2018,August,1.56369276
+29,Missouri,MO,2018,September,1.56369276
+29,Missouri,MO,2018,October,0.995077211
+29,Missouri,MO,2018,November,1.279384985
+29,Missouri,MO,2018,December,NA
+29,Missouri,MO,2019,January,0.587532847
+29,Missouri,MO,2019,February,0.587532847
+29,Missouri,MO,2019,March,1.615715329
+29,Missouri,MO,2019,April,1.909481752
+29,Missouri,MO,2019,May,2.056364964
+29,Missouri,MO,2019,June,2.350131387
+29,Missouri,MO,2019,July,1.321948905
+29,Missouri,MO,2019,August,1.321948905
+29,Missouri,MO,2019,September,2.203248175
+29,Missouri,MO,2019,October,0.440649635
+29,Missouri,MO,2019,November,NA
+29,Missouri,MO,2019,December,NA
+29,Missouri,MO,2020,January,NA
+29,Missouri,MO,2020,February,NA
+29,Missouri,MO,2020,March,0.638380603
+29,Missouri,MO,2020,April,1.276761205
+29,Missouri,MO,2020,May,1.915141808
+29,Missouri,MO,2020,June,2.205314809
+29,Missouri,MO,2020,July,1.044622804
+29,Missouri,MO,2020,August,0.928553604
+29,Missouri,MO,2020,September,0.754449803
+29,Missouri,MO,2020,October,0.870519003
+29,Missouri,MO,2020,November,1.160692005
+29,Missouri,MO,2020,December,0.348207601
+29,Missouri,MO,2021,January,0.642527493
+29,Missouri,MO,2021,February,0.525704312
+29,Missouri,MO,2021,March,0.759350673
+29,Missouri,MO,2021,April,1.351631653
+29,Missouri,MO,2021,May,2.131419146
+29,Missouri,MO,2021,June,1.507589152
+29,Missouri,MO,2021,July,2.824001829
+29,Missouri,MO,2021,August,8.426457071
+29,Missouri,MO,2021,September,2.824001829
+29,Missouri,MO,2021,October,1.083253977
+29,Missouri,MO,2021,November,0.393910537
+29,Missouri,MO,2021,December,0.147716451
+30,Montana,MT,2016,January,1.845722231
+30,Montana,MT,2016,February,NA
+30,Montana,MT,2016,March,NA
+30,Montana,MT,2016,April,NA
+30,Montana,MT,2016,May,NA
+30,Montana,MT,2016,June,NA
+30,Montana,MT,2016,July,3.691444462
+30,Montana,MT,2016,August,NA
+30,Montana,MT,2016,September,NA
+30,Montana,MT,2016,October,1.845722231
+30,Montana,MT,2016,November,1.845722231
+30,Montana,MT,2016,December,NA
+30,Montana,MT,2017,January,NA
+30,Montana,MT,2017,February,NA
+30,Montana,MT,2017,March,NA
+30,Montana,MT,2017,April,NA
+30,Montana,MT,2017,May,NA
+30,Montana,MT,2017,June,NA
+30,Montana,MT,2017,July,1.847404397
+30,Montana,MT,2017,August,NA
+30,Montana,MT,2017,September,NA
+30,Montana,MT,2017,October,NA
+30,Montana,MT,2017,November,NA
+30,Montana,MT,2017,December,NA
+30,Montana,MT,2018,January,NA
+30,Montana,MT,2018,February,NA
+30,Montana,MT,2018,March,NA
+30,Montana,MT,2018,April,NA
+30,Montana,MT,2018,May,NA
+30,Montana,MT,2018,June,NA
+30,Montana,MT,2018,July,NA
+30,Montana,MT,2018,August,NA
+30,Montana,MT,2018,September,NA
+30,Montana,MT,2018,October,NA
+30,Montana,MT,2018,November,NA
+30,Montana,MT,2018,December,NA
+30,Montana,MT,2019,January,NA
+30,Montana,MT,2019,February,NA
+30,Montana,MT,2019,March,NA
+30,Montana,MT,2019,April,NA
+30,Montana,MT,2019,May,NA
+30,Montana,MT,2019,June,NA
+30,Montana,MT,2019,July,NA
+30,Montana,MT,2019,August,NA
+30,Montana,MT,2019,September,NA
+30,Montana,MT,2019,October,NA
+30,Montana,MT,2019,November,NA
+30,Montana,MT,2019,December,NA
+30,Montana,MT,2020,January,NA
+30,Montana,MT,2020,February,NA
+30,Montana,MT,2020,March,NA
+30,Montana,MT,2020,April,NA
+30,Montana,MT,2020,May,2.039415096
+30,Montana,MT,2020,June,2.039415096
+30,Montana,MT,2020,July,NA
+30,Montana,MT,2020,August,NA
+30,Montana,MT,2020,September,NA
+30,Montana,MT,2020,October,NA
+30,Montana,MT,2020,November,NA
+30,Montana,MT,2020,December,NA
+30,Montana,MT,2021,January,NA
+30,Montana,MT,2021,February,NA
+30,Montana,MT,2021,March,NA
+30,Montana,MT,2021,April,NA
+30,Montana,MT,2021,May,NA
+30,Montana,MT,2021,June,3.882037811
+30,Montana,MT,2021,July,NA
+30,Montana,MT,2021,August,NA
+30,Montana,MT,2021,September,NA
+30,Montana,MT,2021,October,2.614464525
+30,Montana,MT,2021,November,0
+30,Montana,MT,2021,December,1.307232262
+31,Nebraska,NE,2016,January,NA
+31,Nebraska,NE,2016,February,NA
+31,Nebraska,NE,2016,March,NA
+31,Nebraska,NE,2016,April,NA
+31,Nebraska,NE,2016,May,NA
+31,Nebraska,NE,2016,June,2.672189191
+31,Nebraska,NE,2016,July,NA
+31,Nebraska,NE,2016,August,NA
+31,Nebraska,NE,2016,September,2.004141893
+31,Nebraska,NE,2016,October,NA
+31,Nebraska,NE,2016,November,NA
+31,Nebraska,NE,2016,December,NA
+31,Nebraska,NE,2017,January,NA
+31,Nebraska,NE,2017,February,NA
+31,Nebraska,NE,2017,March,NA
+31,Nebraska,NE,2017,April,NA
+31,Nebraska,NE,2017,May,NA
+31,Nebraska,NE,2017,June,NA
+31,Nebraska,NE,2017,July,NA
+31,Nebraska,NE,2017,August,NA
+31,Nebraska,NE,2017,September,NA
+31,Nebraska,NE,2017,October,NA
+31,Nebraska,NE,2017,November,NA
+31,Nebraska,NE,2017,December,NA
+31,Nebraska,NE,2018,January,NA
+31,Nebraska,NE,2018,February,NA
+31,Nebraska,NE,2018,March,NA
+31,Nebraska,NE,2018,April,NA
+31,Nebraska,NE,2018,May,NA
+31,Nebraska,NE,2018,June,NA
+31,Nebraska,NE,2018,July,NA
+31,Nebraska,NE,2018,August,NA
+31,Nebraska,NE,2018,September,NA
+31,Nebraska,NE,2018,October,NA
+31,Nebraska,NE,2018,November,NA
+31,Nebraska,NE,2018,December,NA
+31,Nebraska,NE,2019,January,NA
+31,Nebraska,NE,2019,February,NA
+31,Nebraska,NE,2019,March,NA
+31,Nebraska,NE,2019,April,NA
+31,Nebraska,NE,2019,May,NA
+31,Nebraska,NE,2019,June,NA
+31,Nebraska,NE,2019,July,3.784629359
+31,Nebraska,NE,2019,August,3.784629359
+31,Nebraska,NE,2019,September,NA
+31,Nebraska,NE,2019,October,NA
+31,Nebraska,NE,2019,November,NA
+31,Nebraska,NE,2019,December,NA
+31,Nebraska,NE,2020,January,NA
+31,Nebraska,NE,2020,February,NA
+31,Nebraska,NE,2020,March,1.365672457
+31,Nebraska,NE,2020,April,1.365672457
+31,Nebraska,NE,2020,May,NA
+31,Nebraska,NE,2020,June,1.638806949
+31,Nebraska,NE,2020,July,2.185075931
+31,Nebraska,NE,2020,August,0.819403474
+31,Nebraska,NE,2020,September,NA
+31,Nebraska,NE,2020,October,1.092537966
+31,Nebraska,NE,2020,November,NA
+31,Nebraska,NE,2020,December,NA
+31,Nebraska,NE,2021,January,NA
+31,Nebraska,NE,2021,February,NA
+31,Nebraska,NE,2021,March,NA
+31,Nebraska,NE,2021,April,1.176675468
+31,Nebraska,NE,2021,May,0.941340375
+31,Nebraska,NE,2021,June,NA
+31,Nebraska,NE,2021,July,1.863303404
+31,Nebraska,NE,2021,August,1.397477553
+31,Nebraska,NE,2021,September,NA
+31,Nebraska,NE,2021,October,0.85331695
+31,Nebraska,NE,2021,November,0.426658475
+31,Nebraska,NE,2021,December,0.85331695
+32,Nevada,NV,2016,January,0.857125715
+32,Nevada,NV,2016,February,1.142834286
+32,Nevada,NV,2016,March,0.857125715
+32,Nevada,NV,2016,April,0.857125715
+32,Nevada,NV,2016,May,1.714251429
+32,Nevada,NV,2016,June,1.428542858
+32,Nevada,NV,2016,July,1.142834286
+32,Nevada,NV,2016,August,0.857125715
+32,Nevada,NV,2016,September,1.142834286
+32,Nevada,NV,2016,October,0.857125715
+32,Nevada,NV,2016,November,0.857125715
+32,Nevada,NV,2016,December,NA
+32,Nevada,NV,2017,January,2.576111206
+32,Nevada,NV,2017,February,0.772833362
+32,Nevada,NV,2017,March,NA
+32,Nevada,NV,2017,April,1.288055603
+32,Nevada,NV,2017,May,2.318500085
+32,Nevada,NV,2017,June,2.060888964
+32,Nevada,NV,2017,July,1.803277844
+32,Nevada,NV,2017,August,2.576111206
+32,Nevada,NV,2017,September,1.288055603
+32,Nevada,NV,2017,October,2.318500085
+32,Nevada,NV,2017,November,NA
+32,Nevada,NV,2017,December,1.545666723
+32,Nevada,NV,2018,January,2.035079686
+32,Nevada,NV,2018,February,NA
+32,Nevada,NV,2018,March,1.526309765
+32,Nevada,NV,2018,April,1.271924804
+32,Nevada,NV,2018,May,NA
+32,Nevada,NV,2018,June,1.780694725
+32,Nevada,NV,2018,July,0.763154882
+32,Nevada,NV,2018,August,1.780694725
+32,Nevada,NV,2018,September,0.763154882
+32,Nevada,NV,2018,October,1.780694725
+32,Nevada,NV,2018,November,NA
+32,Nevada,NV,2018,December,NA
+32,Nevada,NV,2019,January,0.970584025
+32,Nevada,NV,2019,February,0.970584025
+32,Nevada,NV,2019,March,NA
+32,Nevada,NV,2019,April,2.669106068
+32,Nevada,NV,2019,May,1.213230031
+32,Nevada,NV,2019,June,1.698522043
+32,Nevada,NV,2019,July,1.213230031
+32,Nevada,NV,2019,August,0.970584025
+32,Nevada,NV,2019,September,1.455876037
+32,Nevada,NV,2019,October,0.970584025
+32,Nevada,NV,2019,November,0.970584025
+32,Nevada,NV,2019,December,0.970584025
+32,Nevada,NV,2020,January,NA
+32,Nevada,NV,2020,February,0.501447512
+32,Nevada,NV,2020,March,0.501447512
+32,Nevada,NV,2020,April,0.501447512
+32,Nevada,NV,2020,May,1.002895024
+32,Nevada,NV,2020,June,1.337193365
+32,Nevada,NV,2020,July,NA
+32,Nevada,NV,2020,August,1.170044194
+32,Nevada,NV,2020,September,0.668596682
+32,Nevada,NV,2020,October,NA
+32,Nevada,NV,2020,November,1.002895024
+32,Nevada,NV,2020,December,1.170044194
+32,Nevada,NV,2021,January,NA
+32,Nevada,NV,2021,February,0.806752519
+32,Nevada,NV,2021,March,NA
+32,Nevada,NV,2021,April,1.127577925
+32,Nevada,NV,2021,May,NA
+32,Nevada,NV,2021,June,0.751718617
+32,Nevada,NV,2021,July,2.284722064
+32,Nevada,NV,2021,August,0.761574021
+32,Nevada,NV,2021,September,0.761574021
+32,Nevada,NV,2021,October,0.879764364
+32,Nevada,NV,2021,November,0.879764364
+32,Nevada,NV,2021,December,0.175952873
+33,New Hampshire,NH,2016,January,13.24586415
+33,New Hampshire,NH,2016,February,13.24586415
+33,New Hampshire,NH,2016,March,11.85156266
+33,New Hampshire,NH,2016,April,19.52022086
+33,New Hampshire,NH,2016,May,21.61167309
+33,New Hampshire,NH,2016,June,40.4347432
+33,New Hampshire,NH,2016,July,36.94898948
+33,New Hampshire,NH,2016,August,12.54871341
+33,New Hampshire,NH,2016,September,13.9430149
+33,New Hampshire,NH,2016,October,18.12591937
+33,New Hampshire,NH,2016,November,13.9430149
+33,New Hampshire,NH,2016,December,11.15441192
+33,New Hampshire,NH,2017,January,7.008958724
+33,New Hampshire,NH,2017,February,5.097424526
+33,New Hampshire,NH,2017,March,7.646136789
+33,New Hampshire,NH,2017,April,15.29227358
+33,New Hampshire,NH,2017,May,28.67301296
+33,New Hampshire,NH,2017,June,38.23068395
+33,New Hampshire,NH,2017,July,26.1243007
+33,New Hampshire,NH,2017,August,13.38073938
+33,New Hampshire,NH,2017,September,17.20380778
+33,New Hampshire,NH,2017,October,19.11534197
+33,New Hampshire,NH,2017,November,11.46920518
+33,New Hampshire,NH,2017,December,7.646136789
+33,New Hampshire,NH,2018,January,5.165750137
+33,New Hampshire,NH,2018,February,4.22652284
+33,New Hampshire,NH,2018,March,6.104977435
+33,New Hampshire,NH,2018,April,9.861886626
+33,New Hampshire,NH,2018,May,16.43647771
+33,New Hampshire,NH,2018,June,33.34256907
+33,New Hampshire,NH,2018,July,27.23759163
+33,New Hampshire,NH,2018,August,22.54145514
+33,New Hampshire,NH,2018,September,15.49725041
+33,New Hampshire,NH,2018,October,13.61879582
+33,New Hampshire,NH,2018,November,8.453045679
+33,New Hampshire,NH,2018,December,7.044204733
+33,New Hampshire,NH,2019,January,7.781994296
+33,New Hampshire,NH,2019,February,8.697523037
+33,New Hampshire,NH,2019,March,7.781994296
+33,New Hampshire,NH,2019,April,15.10622422
+33,New Hampshire,NH,2019,May,28.38139096
+33,New Hampshire,NH,2019,June,37.53667837
+33,New Hampshire,NH,2019,July,32.5012703
+33,New Hampshire,NH,2019,August,22.88821852
+33,New Hampshire,NH,2019,September,18.76833919
+33,New Hampshire,NH,2019,October,21.05716104
+33,New Hampshire,NH,2019,November,10.07081615
+33,New Hampshire,NH,2019,December,7.781994296
+33,New Hampshire,NH,2020,January,4.305593828
+33,New Hampshire,NH,2020,February,3.444475062
+33,New Hampshire,NH,2020,March,4.822265087
+33,New Hampshire,NH,2020,April,6.027831359
+33,New Hampshire,NH,2020,May,7.405621383
+33,New Hampshire,NH,2020,June,10.85009645
+33,New Hampshire,NH,2020,July,8.266740149
+33,New Hampshire,NH,2020,August,6.544502618
+33,New Hampshire,NH,2020,September,4.305593828
+33,New Hampshire,NH,2020,October,7.577845136
+33,New Hampshire,NH,2020,November,4.477817581
+33,New Hampshire,NH,2020,December,2.411132543
+33,New Hampshire,NH,2021,January,5.763555883
+33,New Hampshire,NH,2021,February,3.45813353
+33,New Hampshire,NH,2021,March,5.763555883
+33,New Hampshire,NH,2021,April,12.54460675
+33,New Hampshire,NH,2021,May,11.47698065
+33,New Hampshire,NH,2021,June,18.95036339
+33,New Hampshire,NH,2021,July,22.77843994
+33,New Hampshire,NH,2021,August,11.38921997
+33,New Hampshire,NH,2021,September,8.475698583
+33,New Hampshire,NH,2021,October,15.14183642
+33,New Hampshire,NH,2021,November,7.807509404
+33,New Hampshire,NH,2021,December,5.678188658
+34,New Jersey,NJ,2016,January,27.93763256
+34,New Jersey,NJ,2016,February,26.98737295
+34,New Jersey,NJ,2016,March,31.96039825
+34,New Jersey,NJ,2016,April,35.91981329
+34,New Jersey,NJ,2016,May,46.78444818
+34,New Jersey,NJ,2016,June,58.34594011
+34,New Jersey,NJ,2016,July,53.18286289
+34,New Jersey,NJ,2016,August,37.69363123
+34,New Jersey,NJ,2016,September,33.4491383
+34,New Jersey,NJ,2016,October,35.50803413
+34,New Jersey,NJ,2016,November,27.8426066
+34,New Jersey,NJ,2016,December,24.04156816
+34,New Jersey,NJ,2017,January,26.58802911
+34,New Jersey,NJ,2017,February,22.70001585
+34,New Jersey,NJ,2017,March,29.60871633
+34,New Jersey,NJ,2017,April,39.26893388
+34,New Jersey,NJ,2017,May,56.16683764
+34,New Jersey,NJ,2017,June,67.71124623
+34,New Jersey,NJ,2017,July,62.44747444
+34,New Jersey,NJ,2017,August,45.96827979
+34,New Jersey,NJ,2017,September,37.74363637
+34,New Jersey,NJ,2017,October,37.65391299
+34,New Jersey,NJ,2017,November,29.57880853
+34,New Jersey,NJ,2017,December,23.41780291
+34,New Jersey,NJ,2018,January,24.54192041
+34,New Jersey,NJ,2018,February,21.1768344
+34,New Jersey,NJ,2018,March,24.91904212
+34,New Jersey,NJ,2018,April,30.63388647
+34,New Jersey,NJ,2018,May,50.91143065
+34,New Jersey,NJ,2018,June,57.26448097
+34,New Jersey,NJ,2018,July,53.05812345
+34,New Jersey,NJ,2018,August,42.32465944
+34,New Jersey,NJ,2018,September,34.75321591
+34,New Jersey,NJ,2018,October,32.11336395
+34,New Jersey,NJ,2018,November,25.9343698
+34,New Jersey,NJ,2018,December,23.87470508
+34,New Jersey,NJ,2019,January,24.35036699
+34,New Jersey,NJ,2019,February,18.80815272
+34,New Jersey,NJ,2019,March,26.62031646
+34,New Jersey,NJ,2019,April,31.9561717
+34,New Jersey,NJ,2019,May,45.72326781
+34,New Jersey,NJ,2019,June,49.93888824
+34,New Jersey,NJ,2019,July,47.28570056
+34,New Jersey,NJ,2019,August,41.15388901
+34,New Jersey,NJ,2019,September,39.26717777
+34,New Jersey,NJ,2019,October,37.40994639
+34,New Jersey,NJ,2019,November,28.94922565
+34,New Jersey,NJ,2019,December,25.02840385
+34,New Jersey,NJ,2020,January,21.25459664
+34,New Jersey,NJ,2020,February,18.19506938
+34,New Jersey,NJ,2020,March,12.11653841
+34,New Jersey,NJ,2020,April,13.37276814
+34,New Jersey,NJ,2020,May,28.71092796
+34,New Jersey,NJ,2020,June,42.71181097
+34,New Jersey,NJ,2020,July,37.97055681
+34,New Jersey,NJ,2020,August,30.00768124
+34,New Jersey,NJ,2020,September,25.46904478
+34,New Jersey,NJ,2020,October,23.94941203
+34,New Jersey,NJ,2020,November,20.38334053
+34,New Jersey,NJ,2020,December,16.61465133
+34,New Jersey,NJ,2021,January,16.18470424
+34,New Jersey,NJ,2021,February,13.85365199
+34,New Jersey,NJ,2021,March,19.29277391
+34,New Jersey,NJ,2021,April,25.66526914
+34,New Jersey,NJ,2021,May,31.8163007
+34,New Jersey,NJ,2021,June,37.42776809
+34,New Jersey,NJ,2021,July,43.2282474
+34,New Jersey,NJ,2021,August,29.21155315
+34,New Jersey,NJ,2021,September,23.1301444
+34,New Jersey,NJ,2021,October,27.56672977
+34,New Jersey,NJ,2021,November,19.72568291
+34,New Jersey,NJ,2021,December,14.31078956
+35,New Mexico,NM,2016,January,NA
+35,New Mexico,NM,2016,February,NA
+35,New Mexico,NM,2016,March,NA
+35,New Mexico,NM,2016,April,NA
+35,New Mexico,NM,2016,May,NA
+35,New Mexico,NM,2016,June,NA
+35,New Mexico,NM,2016,July,1.213744442
+35,New Mexico,NM,2016,August,2.022907403
+35,New Mexico,NM,2016,September,NA
+35,New Mexico,NM,2016,October,1.213744442
+35,New Mexico,NM,2016,November,4.045814807
+35,New Mexico,NM,2016,December,7.282466652
+35,New Mexico,NM,2017,January,5.232778122
+35,New Mexico,NM,2017,February,2.213867667
+35,New Mexico,NM,2017,March,3.823953243
+35,New Mexico,NM,2017,April,2.213867667
+35,New Mexico,NM,2017,May,4.02521394
+35,New Mexico,NM,2017,June,2.01260697
+35,New Mexico,NM,2017,July,2.817649758
+35,New Mexico,NM,2017,August,2.817649758
+35,New Mexico,NM,2017,September,1.610085576
+35,New Mexico,NM,2017,October,2.01260697
+35,New Mexico,NM,2017,November,1.610085576
+35,New Mexico,NM,2017,December,1.207564182
+35,New Mexico,NM,2018,January,1.449616758
+35,New Mexico,NM,2018,February,0.724808379
+35,New Mexico,NM,2018,March,0.906010473
+35,New Mexico,NM,2018,April,1.449616758
+35,New Mexico,NM,2018,May,1.630818852
+35,New Mexico,NM,2018,June,2.899233515
+35,New Mexico,NM,2018,July,1.812020947
+35,New Mexico,NM,2018,August,2.355627231
+35,New Mexico,NM,2018,September,2.355627231
+35,New Mexico,NM,2018,October,1.993223042
+35,New Mexico,NM,2018,November,1.993223042
+35,New Mexico,NM,2018,December,0.906010473
+35,New Mexico,NM,2019,January,1.83572896
+35,New Mexico,NM,2019,February,1.335075607
+35,New Mexico,NM,2019,March,1.001306705
+35,New Mexico,NM,2019,April,1.335075607
+35,New Mexico,NM,2019,May,1.668844509
+35,New Mexico,NM,2019,June,2.169497861
+35,New Mexico,NM,2019,July,1.668844509
+35,New Mexico,NM,2019,August,1.668844509
+35,New Mexico,NM,2019,September,1.168191156
+35,New Mexico,NM,2019,October,0.667537804
+35,New Mexico,NM,2019,November,1.668844509
+35,New Mexico,NM,2019,December,1.668844509
+35,New Mexico,NM,2020,January,0.727212435
+35,New Mexico,NM,2020,February,1.018097409
+35,New Mexico,NM,2020,March,0.581769948
+35,New Mexico,NM,2020,April,0.727212435
+35,New Mexico,NM,2020,May,1.018097409
+35,New Mexico,NM,2020,June,0.872654922
+35,New Mexico,NM,2020,July,1.163539896
+35,New Mexico,NM,2020,August,1.45442487
+35,New Mexico,NM,2020,September,0.872654922
+35,New Mexico,NM,2020,October,0.436327461
+35,New Mexico,NM,2020,November,0.581769948
+35,New Mexico,NM,2020,December,0.727212435
+35,New Mexico,NM,2021,January,1.019629321
+35,New Mexico,NM,2021,February,NA
+35,New Mexico,NM,2021,March,0.582645326
+35,New Mexico,NM,2021,April,0.699380908
+35,New Mexico,NM,2021,May,0.699380908
+35,New Mexico,NM,2021,June,1.398761816
+35,New Mexico,NM,2021,July,2.142153292
+35,New Mexico,NM,2021,August,1.285291975
+35,New Mexico,NM,2021,September,1.142481756
+35,New Mexico,NM,2021,October,1.718848028
+35,New Mexico,NM,2021,November,0.429712007
+35,New Mexico,NM,2021,December,0.429712007
+36,New York,NY,2016,January,16.99045326
+36,New York,NY,2016,February,14.31293107
+36,New York,NY,2016,March,17.95514875
+36,New York,NY,2016,April,21.04611185
+36,New York,NY,2016,May,29.15742905
+36,New York,NY,2016,June,42.5253523
+36,New York,NY,2016,July,41.00940224
+36,New York,NY,2016,August,28.15335823
+36,New York,NY,2016,September,23.88113534
+36,New York,NY,2016,October,23.78269702
+36,New York,NY,2016,November,18.97890723
+36,New York,NY,2016,December,14.43105705
+36,New York,NY,2017,January,14.37476884
+36,New York,NY,2017,February,13.60257051
+36,New York,NY,2017,March,15.1271672
+36,New York,NY,2017,April,21.58195321
+36,New York,NY,2017,May,34.80832454
+36,New York,NY,2017,June,51.49968835
+36,New York,NY,2017,July,51.44028848
+36,New York,NY,2017,August,31.26413222
+36,New York,NY,2017,September,23.60154883
+36,New York,NY,2017,October,23.70054862
+36,New York,NY,2017,November,16.03796523
+36,New York,NY,2017,December,11.54337497
+36,New York,NY,2018,January,13.03909923
+36,New York,NY,2018,February,10.35743649
+36,New York,NY,2018,March,12.3201027
+36,New York,NY,2018,April,15.29325051
+36,New York,NY,2018,May,27.9631353
+36,New York,NY,2018,June,35.83323245
+36,New York,NY,2018,July,30.95571545
+36,New York,NY,2018,August,23.82404717
+36,New York,NY,2018,September,18.09150727
+36,New York,NY,2018,October,17.52796945
+36,New York,NY,2018,November,12.12577931
+36,New York,NY,2018,December,9.541278271
+36,New York,NY,2019,January,9.12288305
+36,New York,NY,2019,February,7.738972647
+36,New York,NY,2019,March,10.63425888
+36,New York,NY,2019,April,15.4415266
+36,New York,NY,2019,May,21.63270472
+36,New York,NY,2019,June,31.75710187
+36,New York,NY,2019,July,33.21384967
+36,New York,NY,2019,August,21.28672712
+36,New York,NY,2019,September,18.22755675
+36,New York,NY,2019,October,18.90130261
+36,New York,NY,2019,November,12.50982167
+36,New York,NY,2019,December,9.323185871
+36,New York,NY,2020,January,7.869765108
+36,New York,NY,2020,February,6.697955752
+36,New York,NY,2020,March,9.747323281
+36,New York,NY,2020,April,12.43715839
+36,New York,NY,2020,May,23.82235157
+36,New York,NY,2020,June,37.23157909
+36,New York,NY,2020,July,32.06496511
+36,New York,NY,2020,August,23.71582345
+36,New York,NY,2020,September,19.4413825
+36,New York,NY,2020,October,17.7103005
+36,New York,NY,2020,November,14.59435289
+36,New York,NY,2020,December,9.347842819
+36,New York,NY,2021,January,9.832363326
+36,New York,NY,2021,February,7.719941518
+36,New York,NY,2021,March,11.35586754
+36,New York,NY,2021,April,18.08800966
+36,New York,NY,2021,May,25.06955468
+36,New York,NY,2021,June,39.54233305
+36,New York,NY,2021,July,46.16979063
+36,New York,NY,2021,August,23.78661856
+36,New York,NY,2021,September,16.78138142
+36,New York,NY,2021,October,24.33070686
+36,New York,NY,2021,November,14.34218654
+36,New York,NY,2021,December,8.149778455
+37,North Carolina,NC,2016,January,9.566949932
+37,North Carolina,NC,2016,February,7.903132552
+37,North Carolina,NC,2016,March,8.90142298
+37,North Carolina,NC,2016,April,8.90142298
+37,North Carolina,NC,2016,May,11.48033992
+37,North Carolina,NC,2016,June,12.14586687
+37,North Carolina,NC,2016,July,11.97948513
+37,North Carolina,NC,2016,August,11.06438557
+37,North Carolina,NC,2016,September,8.319086897
+37,North Carolina,NC,2016,October,7.986323421
+37,North Carolina,NC,2016,November,8.651850373
+37,North Carolina,NC,2016,December,6.405696911
+37,North Carolina,NC,2017,January,7.331520579
+37,North Carolina,NC,2017,February,6.361172267
+37,North Carolina,NC,2017,March,7.547153537
+37,North Carolina,NC,2017,April,10.35038199
+37,North Carolina,NC,2017,May,14.33959172
+37,North Carolina,NC,2017,June,12.83016101
+37,North Carolina,NC,2017,July,13.80050933
+37,North Carolina,NC,2017,August,13.47705989
+37,North Carolina,NC,2017,September,9.487850161
+37,North Carolina,NC,2017,October,9.59566664
+37,North Carolina,NC,2017,November,7.439337058
+37,North Carolina,NC,2017,December,5.390823955
+37,North Carolina,NC,2018,January,6.679455285
+37,North Carolina,NC,2018,February,7.499739267
+37,North Carolina,NC,2018,March,7.734106119
+37,North Carolina,NC,2018,April,9.374674084
+37,North Carolina,NC,2018,May,10.89805862
+37,North Carolina,NC,2018,June,11.13242547
+37,North Carolina,NC,2018,July,11.60115918
+37,North Carolina,NC,2018,August,12.18707631
+37,North Carolina,NC,2018,September,9.49185751
+37,North Carolina,NC,2018,October,7.851289545
+37,North Carolina,NC,2018,November,8.320023249
+37,North Carolina,NC,2018,December,8.905940379
+37,North Carolina,NC,2019,January,8.128052313
+37,North Carolina,NC,2019,February,6.754296992
+37,North Carolina,NC,2019,March,8.357011533
+37,North Carolina,NC,2019,April,10.53212412
+37,North Carolina,NC,2019,May,10.41764451
+37,North Carolina,NC,2019,June,10.53212412
+37,North Carolina,NC,2019,July,11.447961
+37,North Carolina,NC,2019,August,10.18868529
+37,North Carolina,NC,2019,September,7.555654262
+37,North Carolina,NC,2019,October,10.87556295
+37,North Carolina,NC,2019,November,6.868776602
+37,North Carolina,NC,2019,December,6.983256212
+37,North Carolina,NC,2020,January,2.217774353
+37,North Carolina,NC,2020,February,2.729568434
+37,North Carolina,NC,2020,March,1.578031751
+37,North Carolina,NC,2020,April,5.800332922
+37,North Carolina,NC,2020,May,6.013580456
+37,North Carolina,NC,2020,June,5.587085388
+37,North Carolina,NC,2020,July,7.591612207
+37,North Carolina,NC,2020,August,6.610673551
+37,North Carolina,NC,2020,September,5.075291307
+37,North Carolina,NC,2020,October,4.563497225
+37,North Carolina,NC,2020,November,4.563497225
+37,North Carolina,NC,2020,December,3.284012022
+37,North Carolina,NC,2021,January,2.97473852
+37,North Carolina,NC,2021,February,3.371370323
+37,North Carolina,NC,2021,March,3.966318027
+37,North Carolina,NC,2021,April,10.34793562
+37,North Carolina,NC,2021,May,7.276463566
+37,North Carolina,NC,2021,June,6.252639546
+37,North Carolina,NC,2021,July,7.044537797
+37,North Carolina,NC,2021,August,4.895356774
+37,North Carolina,NC,2021,September,4.377961343
+37,North Carolina,NC,2021,October,5.048723791
+37,North Carolina,NC,2021,November,3.930792094
+37,North Carolina,NC,2021,December,3.570168966
+38,North Dakota,ND,2016,January,NA
+38,North Dakota,ND,2016,February,NA
+38,North Dakota,ND,2016,March,NA
+38,North Dakota,ND,2016,April,NA
+38,North Dakota,ND,2016,May,NA
+38,North Dakota,ND,2016,June,NA
+38,North Dakota,ND,2016,July,NA
+38,North Dakota,ND,2016,August,NA
+38,North Dakota,ND,2016,September,NA
+38,North Dakota,ND,2016,October,NA
+38,North Dakota,ND,2016,November,NA
+38,North Dakota,ND,2016,December,NA
+38,North Dakota,ND,2017,January,NA
+38,North Dakota,ND,2017,February,NA
+38,North Dakota,ND,2017,March,NA
+38,North Dakota,ND,2017,April,NA
+38,North Dakota,ND,2017,May,NA
+38,North Dakota,ND,2017,June,NA
+38,North Dakota,ND,2017,July,NA
+38,North Dakota,ND,2017,August,NA
+38,North Dakota,ND,2017,September,NA
+38,North Dakota,ND,2017,October,NA
+38,North Dakota,ND,2017,November,NA
+38,North Dakota,ND,2017,December,NA
+38,North Dakota,ND,2018,January,NA
+38,North Dakota,ND,2018,February,NA
+38,North Dakota,ND,2018,March,NA
+38,North Dakota,ND,2018,April,NA
+38,North Dakota,ND,2018,May,NA
+38,North Dakota,ND,2018,June,NA
+38,North Dakota,ND,2018,July,NA
+38,North Dakota,ND,2018,August,NA
+38,North Dakota,ND,2018,September,NA
+38,North Dakota,ND,2018,October,NA
+38,North Dakota,ND,2018,November,NA
+38,North Dakota,ND,2018,December,NA
+38,North Dakota,ND,2019,January,NA
+38,North Dakota,ND,2019,February,NA
+38,North Dakota,ND,2019,March,NA
+38,North Dakota,ND,2019,April,NA
+38,North Dakota,ND,2019,May,NA
+38,North Dakota,ND,2019,June,NA
+38,North Dakota,ND,2019,July,NA
+38,North Dakota,ND,2019,August,NA
+38,North Dakota,ND,2019,September,NA
+38,North Dakota,ND,2019,October,NA
+38,North Dakota,ND,2019,November,NA
+38,North Dakota,ND,2019,December,NA
+38,North Dakota,ND,2020,January,NA
+38,North Dakota,ND,2020,February,NA
+38,North Dakota,ND,2020,March,NA
+38,North Dakota,ND,2020,April,NA
+38,North Dakota,ND,2020,May,3.197578367
+38,North Dakota,ND,2020,June,NA
+38,North Dakota,ND,2020,July,NA
+38,North Dakota,ND,2020,August,NA
+38,North Dakota,ND,2020,September,NA
+38,North Dakota,ND,2020,October,NA
+38,North Dakota,ND,2020,November,NA
+38,North Dakota,ND,2020,December,NA
+38,North Dakota,ND,2021,January,NA
+38,North Dakota,ND,2021,February,NA
+38,North Dakota,ND,2021,March,NA
+38,North Dakota,ND,2021,April,NA
+38,North Dakota,ND,2021,May,NA
+38,North Dakota,ND,2021,June,NA
+38,North Dakota,ND,2021,July,NA
+38,North Dakota,ND,2021,August,NA
+38,North Dakota,ND,2021,September,NA
+38,North Dakota,ND,2021,October,3.072794502
+38,North Dakota,ND,2021,November,0
+38,North Dakota,ND,2021,December,1.024264834
+39,Ohio,OH,2016,January,2.183421011
+39,Ohio,OH,2016,February,1.774029572
+39,Ohio,OH,2016,March,1.364638132
+39,Ohio,OH,2016,April,1.501101945
+39,Ohio,OH,2016,May,1.910493385
+39,Ohio,OH,2016,June,3.138667704
+39,Ohio,OH,2016,July,2.183421011
+39,Ohio,OH,2016,August,2.729276264
+39,Ohio,OH,2016,September,1.228174319
+39,Ohio,OH,2016,October,1.637565758
+39,Ohio,OH,2016,November,1.091710506
+39,Ohio,OH,2016,December,1.091710506
+39,Ohio,OH,2017,January,1.41138081
+39,Ohio,OH,2017,February,0.987966567
+39,Ohio,OH,2017,March,1.552518891
+39,Ohio,OH,2017,April,1.834795053
+39,Ohio,OH,2017,May,3.669590107
+39,Ohio,OH,2017,June,4.375280512
+39,Ohio,OH,2017,July,3.951866269
+39,Ohio,OH,2017,August,1.834795053
+39,Ohio,OH,2017,September,1.693656972
+39,Ohio,OH,2017,October,1.129104648
+39,Ohio,OH,2017,November,2.117071215
+39,Ohio,OH,2017,December,1.834795053
+39,Ohio,OH,2018,January,1.606810735
+39,Ohio,OH,2018,February,1.071207157
+39,Ohio,OH,2018,March,1.472909841
+39,Ohio,OH,2018,April,1.339008946
+39,Ohio,OH,2018,May,3.481423259
+39,Ohio,OH,2018,June,4.686531311
+39,Ohio,OH,2018,July,3.883125943
+39,Ohio,OH,2018,August,2.945819681
+39,Ohio,OH,2018,September,1.74071163
+39,Ohio,OH,2018,October,2.008513419
+39,Ohio,OH,2018,November,1.472909841
+39,Ohio,OH,2018,December,1.339008946
+39,Ohio,OH,2019,January,1.24302353
+39,Ohio,OH,2019,February,0.870116471
+39,Ohio,OH,2019,March,1.988837649
+39,Ohio,OH,2019,April,2.361744708
+39,Ohio,OH,2019,May,3.729070591
+39,Ohio,OH,2019,June,3.853372944
+39,Ohio,OH,2019,July,4.226280003
+39,Ohio,OH,2019,August,2.734651767
+39,Ohio,OH,2019,September,1.24302353
+39,Ohio,OH,2019,October,2.983256473
+39,Ohio,OH,2019,November,1.24302353
+39,Ohio,OH,2019,December,0.745814118
+39,Ohio,OH,2020,January,0.453358708
+39,Ohio,OH,2020,February,0.453358708
+39,Ohio,OH,2020,March,1.611942073
+39,Ohio,OH,2020,April,1.914181212
+39,Ohio,OH,2020,May,4.180974751
+39,Ohio,OH,2020,June,5.541050875
+39,Ohio,OH,2020,July,4.735079839
+39,Ohio,OH,2020,August,2.720152248
+39,Ohio,OH,2020,September,1.813434832
+39,Ohio,OH,2020,October,2.468286299
+39,Ohio,OH,2020,November,1.662315263
+39,Ohio,OH,2020,December,0.856344226
+39,Ohio,OH,2021,January,1.239292513
+39,Ohio,OH,2021,February,1.090577411
+39,Ohio,OH,2021,March,1.536722716
+39,Ohio,OH,2021,April,2.329429874
+39,Ohio,OH,2021,May,3.945768971
+39,Ohio,OH,2021,June,4.991635445
+39,Ohio,OH,2021,July,6.783727289
+39,Ohio,OH,2021,August,4.397726656
+39,Ohio,OH,2021,September,2.29243198
+39,Ohio,OH,2021,October,2.861720312
+39,Ohio,OH,2021,November,2.362054861
+39,Ohio,OH,2021,December,1.63526875
+40,Oklahoma,OK,2016,January,NA
+40,Oklahoma,OK,2016,February,1.991833483
+40,Oklahoma,OK,2016,March,NA
+40,Oklahoma,OK,2016,April,1.991833483
+40,Oklahoma,OK,2016,May,3.485708595
+40,Oklahoma,OK,2016,June,1.991833483
+40,Oklahoma,OK,2016,July,NA
+40,Oklahoma,OK,2016,August,NA
+40,Oklahoma,OK,2016,September,2.987750224
+40,Oklahoma,OK,2016,October,1.493875112
+40,Oklahoma,OK,2016,November,1.493875112
+40,Oklahoma,OK,2016,December,NA
+40,Oklahoma,OK,2017,January,NA
+40,Oklahoma,OK,2017,February,NA
+40,Oklahoma,OK,2017,March,NA
+40,Oklahoma,OK,2017,April,2.167429602
+40,Oklahoma,OK,2017,May,1.733943682
+40,Oklahoma,OK,2017,June,1.300457761
+40,Oklahoma,OK,2017,July,1.733943682
+40,Oklahoma,OK,2017,August,NA
+40,Oklahoma,OK,2017,September,NA
+40,Oklahoma,OK,2017,October,NA
+40,Oklahoma,OK,2017,November,NA
+40,Oklahoma,OK,2017,December,3.901373283
+40,Oklahoma,OK,2018,January,NA
+40,Oklahoma,OK,2018,February,1.341822598
+40,Oklahoma,OK,2018,March,2.460008096
+40,Oklahoma,OK,2018,April,1.565459697
+40,Oklahoma,OK,2018,May,2.683645195
+40,Oklahoma,OK,2018,June,2.907282295
+40,Oklahoma,OK,2018,July,2.236370996
+40,Oklahoma,OK,2018,August,1.565459697
+40,Oklahoma,OK,2018,September,1.789096797
+40,Oklahoma,OK,2018,October,1.565459697
+40,Oklahoma,OK,2018,November,0.894548398
+40,Oklahoma,OK,2018,December,0.894548398
+40,Oklahoma,OK,2019,January,1.10312449
+40,Oklahoma,OK,2019,February,0.661874694
+40,Oklahoma,OK,2019,March,1.10312449
+40,Oklahoma,OK,2019,April,2.647498776
+40,Oklahoma,OK,2019,May,1.764999184
+40,Oklahoma,OK,2019,June,2.647498776
+40,Oklahoma,OK,2019,July,1.323749388
+40,Oklahoma,OK,2019,August,0.882499592
+40,Oklahoma,OK,2019,September,NA
+40,Oklahoma,OK,2019,October,1.544374286
+40,Oklahoma,OK,2019,November,0.882499592
+40,Oklahoma,OK,2019,December,0.661874694
+40,Oklahoma,OK,2020,January,0.75830041
+40,Oklahoma,OK,2020,February,0.32498589
+40,Oklahoma,OK,2020,March,0.43331452
+40,Oklahoma,OK,2020,April,1.408272191
+40,Oklahoma,OK,2020,May,0.974957671
+40,Oklahoma,OK,2020,June,1.733258081
+40,Oklahoma,OK,2020,July,0.866629041
+40,Oklahoma,OK,2020,August,0.866629041
+40,Oklahoma,OK,2020,September,3.791502052
+40,Oklahoma,OK,2020,October,1.624929451
+40,Oklahoma,OK,2020,November,0.43331452
+40,Oklahoma,OK,2020,December,0.43331452
+40,Oklahoma,OK,2021,January,NA
+40,Oklahoma,OK,2021,February,0.863660409
+40,Oklahoma,OK,2021,March,0.539787755
+40,Oklahoma,OK,2021,April,1.039022571
+40,Oklahoma,OK,2021,May,1.454631599
+40,Oklahoma,OK,2021,June,1.142924828
+40,Oklahoma,OK,2021,July,1.758705593
+40,Oklahoma,OK,2021,August,1.381840109
+40,Oklahoma,OK,2021,September,1.130596452
+40,Oklahoma,OK,2021,October,0.681272235
+40,Oklahoma,OK,2021,November,1.226290023
+40,Oklahoma,OK,2021,December,0.681272235
+41,Oregon,OR,2016,January,2.775195304
+41,Oregon,OR,2016,February,2.312662754
+41,Oregon,OR,2016,March,1.850130203
+41,Oregon,OR,2016,April,2.775195304
+41,Oregon,OR,2016,May,3.237727855
+41,Oregon,OR,2016,June,1.850130203
+41,Oregon,OR,2016,July,1.850130203
+41,Oregon,OR,2016,August,1.850130203
+41,Oregon,OR,2016,September,2.312662754
+41,Oregon,OR,2016,October,2.312662754
+41,Oregon,OR,2016,November,NA
+41,Oregon,OR,2016,December,NA
+41,Oregon,OR,2017,January,1.313381607
+41,Oregon,OR,2017,February,2.188969346
+41,Oregon,OR,2017,March,1.751175477
+41,Oregon,OR,2017,April,NA
+41,Oregon,OR,2017,May,3.502350953
+41,Oregon,OR,2017,June,3.502350953
+41,Oregon,OR,2017,July,3.502350953
+41,Oregon,OR,2017,August,1.751175477
+41,Oregon,OR,2017,September,1.751175477
+41,Oregon,OR,2017,October,NA
+41,Oregon,OR,2017,November,1.313381607
+41,Oregon,OR,2017,December,NA
+41,Oregon,OR,2018,January,NA
+41,Oregon,OR,2018,February,1.477737879
+41,Oregon,OR,2018,March,1.477737879
+41,Oregon,OR,2018,April,1.477737879
+41,Oregon,OR,2018,May,NA
+41,Oregon,OR,2018,June,3.448055051
+41,Oregon,OR,2018,July,1.970317172
+41,Oregon,OR,2018,August,2.462896465
+41,Oregon,OR,2018,September,1.477737879
+41,Oregon,OR,2018,October,1.477737879
+41,Oregon,OR,2018,November,1.970317172
+41,Oregon,OR,2018,December,1.970317172
+41,Oregon,OR,2019,January,1.935958493
+41,Oregon,OR,2019,February,NA
+41,Oregon,OR,2019,March,NA
+41,Oregon,OR,2019,April,NA
+41,Oregon,OR,2019,May,NA
+41,Oregon,OR,2019,June,1.935958493
+41,Oregon,OR,2019,July,3.871916986
+41,Oregon,OR,2019,August,1.935958493
+41,Oregon,OR,2019,September,NA
+41,Oregon,OR,2019,October,NA
+41,Oregon,OR,2019,November,1.45196887
+41,Oregon,OR,2019,December,NA
+41,Oregon,OR,2020,January,1.795594061
+41,Oregon,OR,2020,February,NA
+41,Oregon,OR,2020,March,NA
+41,Oregon,OR,2020,April,0.673347773
+41,Oregon,OR,2020,May,1.122246288
+41,Oregon,OR,2020,June,2.020043319
+41,Oregon,OR,2020,July,1.571144803
+41,Oregon,OR,2020,August,1.795594061
+41,Oregon,OR,2020,September,0.897797031
+41,Oregon,OR,2020,October,NA
+41,Oregon,OR,2020,November,1.346695546
+41,Oregon,OR,2020,December,0.897797031
+41,Oregon,OR,2021,January,1.518293265
+41,Oregon,OR,2021,February,NA
+41,Oregon,OR,2021,March,2.168990378
+41,Oregon,OR,2021,April,1.355624972
+41,Oregon,OR,2021,May,1.355624972
+41,Oregon,OR,2021,June,1.549285682
+41,Oregon,OR,2021,July,2.389524325
+41,Oregon,OR,2021,August,1.792143244
+41,Oregon,OR,2021,September,2.588651352
+41,Oregon,OR,2021,October,2.833813822
+41,Oregon,OR,2021,November,1.133525529
+41,Oregon,OR,2021,December,1.133525529
+42,Pennsylvania,PA,2016,January,11.53030994
+42,Pennsylvania,PA,2016,February,11.38618107
+42,Pennsylvania,PA,2016,March,13.90843637
+42,Pennsylvania,PA,2016,April,15.7100473
+42,Pennsylvania,PA,2016,May,27.52861499
+42,Pennsylvania,PA,2016,June,41.94150241
+42,Pennsylvania,PA,2016,July,35.45570307
+42,Pennsylvania,PA,2016,August,19.88978465
+42,Pennsylvania,PA,2016,September,17.00720716
+42,Pennsylvania,PA,2016,October,17.36752935
+42,Pennsylvania,PA,2016,November,13.187792
+42,Pennsylvania,PA,2016,December,9.944892325
+42,Pennsylvania,PA,2017,January,9.669501023
+42,Pennsylvania,PA,2017,February,8.299020563
+42,Pennsylvania,PA,2017,March,11.4968083
+42,Pennsylvania,PA,2017,April,15.9889387
+42,Pennsylvania,PA,2017,May,27.63802261
+42,Pennsylvania,PA,2017,June,42.71330767
+42,Pennsylvania,PA,2017,July,39.05869311
+42,Pennsylvania,PA,2017,August,21.92768736
+42,Pennsylvania,PA,2017,September,17.43555696
+42,Pennsylvania,PA,2017,October,18.65376182
+42,Pennsylvania,PA,2017,November,12.25818634
+42,Pennsylvania,PA,2017,December,8.146744957
+42,Pennsylvania,PA,2018,January,9.096579686
+42,Pennsylvania,PA,2018,February,6.803324303
+42,Pennsylvania,PA,2018,March,7.032649841
+42,Pennsylvania,PA,2018,April,12.00136984
+42,Pennsylvania,PA,2018,May,23.08543752
+42,Pennsylvania,PA,2018,June,37.60938828
+42,Pennsylvania,PA,2018,July,30.19452921
+42,Pennsylvania,PA,2018,August,19.49267076
+42,Pennsylvania,PA,2018,September,14.90615999
+42,Pennsylvania,PA,2018,October,15.05904368
+42,Pennsylvania,PA,2018,November,8.561486763
+42,Pennsylvania,PA,2018,December,7.64418461
+42,Pennsylvania,PA,2019,January,8.512391021
+42,Pennsylvania,PA,2019,February,6.109700007
+42,Pennsylvania,PA,2019,March,10.43454383
+42,Pennsylvania,PA,2019,April,13.59236631
+42,Pennsylvania,PA,2019,May,23.06583373
+42,Pennsylvania,PA,2019,June,31.02903824
+42,Pennsylvania,PA,2019,July,26.22365621
+42,Pennsylvania,PA,2019,August,15.85776069
+42,Pennsylvania,PA,2019,September,13.86695957
+42,Pennsylvania,PA,2019,October,14.14155282
+42,Pennsylvania,PA,2019,November,8.78698428
+42,Pennsylvania,PA,2019,December,7.825907874
+42,Pennsylvania,PA,2020,January,1.82142727
+42,Pennsylvania,PA,2020,February,1.783081433
+42,Pennsylvania,PA,2020,March,5.176688032
+42,Pennsylvania,PA,2020,April,4.467290042
+42,Pennsylvania,PA,2020,May,12.07893874
+42,Pennsylvania,PA,2020,June,19.74810619
+42,Pennsylvania,PA,2020,July,13.15262218
+42,Pennsylvania,PA,2020,August,10.44924066
+42,Pennsylvania,PA,2020,September,9.068790515
+42,Pennsylvania,PA,2020,October,8.838715491
+42,Pennsylvania,PA,2020,November,7.113152814
+42,Pennsylvania,PA,2020,December,3.546989948
+42,Pennsylvania,PA,2021,January,2.934844243
+42,Pennsylvania,PA,2021,February,3.543962859
+42,Pennsylvania,PA,2021,March,4.171539616
+42,Pennsylvania,PA,2021,April,5.468725566
+42,Pennsylvania,PA,2021,May,9.035285717
+42,Pennsylvania,PA,2021,June,17.33896935
+42,Pennsylvania,PA,2021,July,22.16832932
+42,Pennsylvania,PA,2021,August,9.934194658
+42,Pennsylvania,PA,2021,September,8.233398685
+42,Pennsylvania,PA,2021,October,9.10817635
+42,Pennsylvania,PA,2021,November,4.597051271
+42,Pennsylvania,PA,2021,December,4.661495915
+44,Rhode Island,RI,2016,January,20.72567497
+44,Rhode Island,RI,2016,February,11.05369332
+44,Rhode Island,RI,2016,March,28.32508912
+44,Rhode Island,RI,2016,April,21.4165308
+44,Rhode Island,RI,2016,May,31.77936828
+44,Rhode Island,RI,2016,June,40.7604941
+44,Rhode Island,RI,2016,July,38.6879266
+44,Rhode Island,RI,2016,August,22.79824246
+44,Rhode Island,RI,2016,September,24.87080996
+44,Rhode Island,RI,2016,October,26.94337746
+44,Rhode Island,RI,2016,November,15.19882831
+44,Rhode Island,RI,2016,December,10.36283748
+44,Rhode Island,RI,2017,January,14.49503703
+44,Rhode Island,RI,2017,February,8.192847014
+44,Rhode Island,RI,2017,March,9.453285017
+44,Rhode Island,RI,2017,April,17.64613203
+44,Rhode Island,RI,2017,May,25.20876004
+44,Rhode Island,RI,2017,June,47.89664408
+44,Rhode Island,RI,2017,July,40.33401607
+44,Rhode Island,RI,2017,August,24.57854104
+44,Rhode Island,RI,2017,September,18.27635103
+44,Rhode Island,RI,2017,October,29.62029305
+44,Rhode Island,RI,2017,November,10.08350402
+44,Rhode Island,RI,2017,December,4.411533008
+44,Rhode Island,RI,2018,January,4.27728193
+44,Rhode Island,RI,2018,February,5.703042573
+44,Rhode Island,RI,2018,March,8.079310312
+44,Rhode Island,RI,2018,April,10.9308316
+44,Rhode Island,RI,2018,May,14.25760643
+44,Rhode Island,RI,2018,June,45.62434059
+44,Rhode Island,RI,2018,July,40.39655156
+44,Rhode Island,RI,2018,August,26.13894513
+44,Rhode Island,RI,2018,September,19.96064901
+44,Rhode Island,RI,2018,October,17.58438127
+44,Rhode Island,RI,2018,November,17.10912772
+44,Rhode Island,RI,2018,December,8.55456386
+44,Rhode Island,RI,2019,January,12.53665853
+44,Rhode Island,RI,2019,February,8.059280485
+44,Rhode Island,RI,2019,March,10.74570731
+44,Rhode Island,RI,2019,April,14.77534756
+44,Rhode Island,RI,2019,May,17.01403658
+44,Rhode Island,RI,2019,June,38.95318901
+44,Rhode Island,RI,2019,July,38.50545121
+44,Rhode Island,RI,2019,August,19.70046341
+44,Rhode Island,RI,2019,September,11.64118292
+44,Rhode Island,RI,2019,October,18.8049878
+44,Rhode Island,RI,2019,November,8.954756095
+44,Rhode Island,RI,2019,December,4.477378047
+44,Rhode Island,RI,2020,January,1.330430039
+44,Rhode Island,RI,2020,February,1.153039367
+44,Rhode Island,RI,2020,March,4.700852806
+44,Rhode Island,RI,2020,April,4.434766798
+44,Rhode Island,RI,2020,May,9.845182291
+44,Rhode Island,RI,2020,June,21.64166197
+44,Rhode Island,RI,2020,July,16.23124648
+44,Rhode Island,RI,2020,August,7.45040822
+44,Rhode Island,RI,2020,September,7.095626876
+44,Rhode Island,RI,2020,October,7.184322212
+44,Rhode Island,RI,2020,November,5.321720157
+44,Rhode Island,RI,2020,December,3.370422766
+44,Rhode Island,RI,2021,January,2.04416939
+44,Rhode Island,RI,2021,February,2.640385462
+44,Rhode Island,RI,2021,March,2.895906636
+44,Rhode Island,RI,2021,April,6.258399695
+44,Rhode Island,RI,2021,May,6.499107376
+44,Rhode Island,RI,2021,June,8.264297033
+44,Rhode Island,RI,2021,July,13.41795028
+44,Rhode Island,RI,2021,August,9.853807239
+44,Rhode Island,RI,2021,September,7.233113824
+44,Rhode Island,RI,2021,October,11.61889626
+44,Rhode Island,RI,2021,November,6.695635135
+44,Rhode Island,RI,2021,December,4.529400238
+45,South Carolina,SC,2016,January,NA
+45,South Carolina,SC,2016,February,NA
+45,South Carolina,SC,2016,March,NA
+45,South Carolina,SC,2016,April,1.975230608
+45,South Carolina,SC,2016,May,2.46903826
+45,South Carolina,SC,2016,June,NA
+45,South Carolina,SC,2016,July,1.481422956
+45,South Carolina,SC,2016,August,1.975230608
+45,South Carolina,SC,2016,September,NA
+45,South Carolina,SC,2016,October,1.481422956
+45,South Carolina,SC,2016,November,1.481422956
+45,South Carolina,SC,2016,December,1.481422956
+45,South Carolina,SC,2017,January,NA
+45,South Carolina,SC,2017,February,NA
+45,South Carolina,SC,2017,March,NA
+45,South Carolina,SC,2017,April,3.122544249
+45,South Carolina,SC,2017,May,2.602120208
+45,South Carolina,SC,2017,June,2.602120208
+45,South Carolina,SC,2017,July,3.122544249
+45,South Carolina,SC,2017,August,NA
+45,South Carolina,SC,2017,September,1.561272125
+45,South Carolina,SC,2017,October,2.081696166
+45,South Carolina,SC,2017,November,1.561272125
+45,South Carolina,SC,2017,December,2.081696166
+45,South Carolina,SC,2018,January,3.85971853
+45,South Carolina,SC,2018,February,NA
+45,South Carolina,SC,2018,March,2.412324081
+45,South Carolina,SC,2018,April,2.412324081
+45,South Carolina,SC,2018,May,4.824648163
+45,South Carolina,SC,2018,June,3.85971853
+45,South Carolina,SC,2018,July,2.894788898
+45,South Carolina,SC,2018,August,1.929859265
+45,South Carolina,SC,2018,September,NA
+45,South Carolina,SC,2018,October,1.447394449
+45,South Carolina,SC,2018,November,2.412324081
+45,South Carolina,SC,2018,December,NA
+45,South Carolina,SC,2019,January,1.708924574
+45,South Carolina,SC,2019,February,NA
+45,South Carolina,SC,2019,March,1.708924574
+45,South Carolina,SC,2019,April,2.278566098
+45,South Carolina,SC,2019,May,NA
+45,South Carolina,SC,2019,June,1.708924574
+45,South Carolina,SC,2019,July,NA
+45,South Carolina,SC,2019,August,NA
+45,South Carolina,SC,2019,September,1.708924574
+45,South Carolina,SC,2019,October,2.278566098
+45,South Carolina,SC,2019,November,1.708924574
+45,South Carolina,SC,2019,December,2.848207623
+45,South Carolina,SC,2020,January,NA
+45,South Carolina,SC,2020,February,NA
+45,South Carolina,SC,2020,March,1.095398232
+45,South Carolina,SC,2020,April,2.327721243
+45,South Carolina,SC,2020,May,2.73849558
+45,South Carolina,SC,2020,June,1.780022127
+45,South Carolina,SC,2020,July,1.36924779
+45,South Carolina,SC,2020,August,1.36924779
+45,South Carolina,SC,2020,September,2.190796464
+45,South Carolina,SC,2020,October,1.36924779
+45,South Carolina,SC,2020,November,1.095398232
+45,South Carolina,SC,2020,December,NA
+45,South Carolina,SC,2021,January,0.629049506
+45,South Carolina,SC,2021,February,0.880669309
+45,South Carolina,SC,2021,March,0.880669309
+45,South Carolina,SC,2021,April,1.150436878
+45,South Carolina,SC,2021,May,2.185830069
+45,South Carolina,SC,2021,June,2.070786381
+45,South Carolina,SC,2021,July,2.317295716
+45,South Carolina,SC,2021,August,0.695188715
+45,South Carolina,SC,2021,September,0.811053501
+45,South Carolina,SC,2021,October,1.138042249
+45,South Carolina,SC,2021,November,1.024238024
+45,South Carolina,SC,2021,December,0.455216899
+46,South Dakota,SD,2016,January,NA
+46,South Dakota,SD,2016,February,NA
+46,South Dakota,SD,2016,March,NA
+46,South Dakota,SD,2016,April,NA
+46,South Dakota,SD,2016,May,NA
+46,South Dakota,SD,2016,June,NA
+46,South Dakota,SD,2016,July,NA
+46,South Dakota,SD,2016,August,NA
+46,South Dakota,SD,2016,September,NA
+46,South Dakota,SD,2016,October,NA
+46,South Dakota,SD,2016,November,NA
+46,South Dakota,SD,2016,December,NA
+46,South Dakota,SD,2017,January,NA
+46,South Dakota,SD,2017,February,NA
+46,South Dakota,SD,2017,March,NA
+46,South Dakota,SD,2017,April,NA
+46,South Dakota,SD,2017,May,NA
+46,South Dakota,SD,2017,June,NA
+46,South Dakota,SD,2017,July,NA
+46,South Dakota,SD,2017,August,NA
+46,South Dakota,SD,2017,September,NA
+46,South Dakota,SD,2017,October,NA
+46,South Dakota,SD,2017,November,NA
+46,South Dakota,SD,2017,December,NA
+46,South Dakota,SD,2018,January,NA
+46,South Dakota,SD,2018,February,NA
+46,South Dakota,SD,2018,March,NA
+46,South Dakota,SD,2018,April,NA
+46,South Dakota,SD,2018,May,NA
+46,South Dakota,SD,2018,June,NA
+46,South Dakota,SD,2018,July,NA
+46,South Dakota,SD,2018,August,NA
+46,South Dakota,SD,2018,September,NA
+46,South Dakota,SD,2018,October,NA
+46,South Dakota,SD,2018,November,NA
+46,South Dakota,SD,2018,December,NA
+46,South Dakota,SD,2019,January,NA
+46,South Dakota,SD,2019,February,NA
+46,South Dakota,SD,2019,March,NA
+46,South Dakota,SD,2019,April,NA
+46,South Dakota,SD,2019,May,NA
+46,South Dakota,SD,2019,June,NA
+46,South Dakota,SD,2019,July,NA
+46,South Dakota,SD,2019,August,NA
+46,South Dakota,SD,2019,September,NA
+46,South Dakota,SD,2019,October,NA
+46,South Dakota,SD,2019,November,NA
+46,South Dakota,SD,2019,December,NA
+46,South Dakota,SD,2020,January,NA
+46,South Dakota,SD,2020,February,NA
+46,South Dakota,SD,2020,March,NA
+46,South Dakota,SD,2020,April,NA
+46,South Dakota,SD,2020,May,NA
+46,South Dakota,SD,2020,June,NA
+46,South Dakota,SD,2020,July,NA
+46,South Dakota,SD,2020,August,NA
+46,South Dakota,SD,2020,September,NA
+46,South Dakota,SD,2020,October,NA
+46,South Dakota,SD,2020,November,NA
+46,South Dakota,SD,2020,December,NA
+46,South Dakota,SD,2021,January,NA
+46,South Dakota,SD,2021,February,NA
+46,South Dakota,SD,2021,March,NA
+46,South Dakota,SD,2021,April,NA
+46,South Dakota,SD,2021,May,NA
+46,South Dakota,SD,2021,June,NA
+46,South Dakota,SD,2021,July,NA
+46,South Dakota,SD,2021,August,NA
+46,South Dakota,SD,2021,September,NA
+46,South Dakota,SD,2021,October,NA
+46,South Dakota,SD,2021,November,NA
+46,South Dakota,SD,2021,December,NA
+47,Tennessee,TN,2016,January,2.812623052
+47,Tennessee,TN,2016,February,1.125049221
+47,Tennessee,TN,2016,March,2.531360747
+47,Tennessee,TN,2016,April,1.406311526
+47,Tennessee,TN,2016,May,1.125049221
+47,Tennessee,TN,2016,June,2.531360747
+47,Tennessee,TN,2016,July,2.812623052
+47,Tennessee,TN,2016,August,1.687573831
+47,Tennessee,TN,2016,September,0.843786916
+47,Tennessee,TN,2016,October,0.843786916
+47,Tennessee,TN,2016,November,NA
+47,Tennessee,TN,2016,December,NA
+47,Tennessee,TN,2017,January,1.958622697
+47,Tennessee,TN,2017,February,NA
+47,Tennessee,TN,2017,March,2.238425939
+47,Tennessee,TN,2017,April,1.678819454
+47,Tennessee,TN,2017,May,3.357638908
+47,Tennessee,TN,2017,June,2.518229181
+47,Tennessee,TN,2017,July,1.399016212
+47,Tennessee,TN,2017,August,1.958622697
+47,Tennessee,TN,2017,September,1.399016212
+47,Tennessee,TN,2017,October,0.839409727
+47,Tennessee,TN,2017,November,1.119212969
+47,Tennessee,TN,2017,December,1.399016212
+47,Tennessee,TN,2018,January,1.523743737
+47,Tennessee,TN,2018,February,NA
+47,Tennessee,TN,2018,March,NA
+47,Tennessee,TN,2018,April,1.777701026
+47,Tennessee,TN,2018,May,3.047487474
+47,Tennessee,TN,2018,June,1.777701026
+47,Tennessee,TN,2018,July,1.777701026
+47,Tennessee,TN,2018,August,1.015829158
+47,Tennessee,TN,2018,September,2.539572895
+47,Tennessee,TN,2018,October,1.015829158
+47,Tennessee,TN,2018,November,1.269786447
+47,Tennessee,TN,2018,December,0.761871868
+47,Tennessee,TN,2019,January,0.741914981
+47,Tennessee,TN,2019,February,0.741914981
+47,Tennessee,TN,2019,March,1.236524969
+47,Tennessee,TN,2019,April,1.483829963
+47,Tennessee,TN,2019,May,2.225744944
+47,Tennessee,TN,2019,June,2.225744944
+47,Tennessee,TN,2019,July,3.21496492
+47,Tennessee,TN,2019,August,2.225744944
+47,Tennessee,TN,2019,September,0.989219975
+47,Tennessee,TN,2019,October,1.483829963
+47,Tennessee,TN,2019,November,1.978439951
+47,Tennessee,TN,2019,December,1.731134957
+47,Tennessee,TN,2020,January,0.280116164
+47,Tennessee,TN,2020,February,0.280116164
+47,Tennessee,TN,2020,March,0.910377534
+47,Tennessee,TN,2020,April,1.820755067
+47,Tennessee,TN,2020,May,1.750726026
+47,Tennessee,TN,2020,June,2.521045478
+47,Tennessee,TN,2020,July,1.540638903
+47,Tennessee,TN,2020,August,0.980406575
+47,Tennessee,TN,2020,September,1.050435616
+47,Tennessee,TN,2020,October,0.420174246
+47,Tennessee,TN,2020,November,0.280116164
+47,Tennessee,TN,2020,December,0.630261369
+47,Tennessee,TN,2021,January,1.47216233
+47,Tennessee,TN,2021,February,0.674741068
+47,Tennessee,TN,2021,March,0.858761359
+47,Tennessee,TN,2021,April,1.746411261
+47,Tennessee,TN,2021,May,1.691835909
+47,Tennessee,TN,2021,June,1.200657742
+47,Tennessee,TN,2021,July,1.249869626
+47,Tennessee,TN,2021,August,1.767057057
+47,Tennessee,TN,2021,September,0.689583242
+47,Tennessee,TN,2021,October,0.904510795
+47,Tennessee,TN,2021,November,0.452255398
+47,Tennessee,TN,2021,December,0.414567448
+48,Texas,TX,2016,January,0.95800398
+48,Texas,TX,2016,February,2.586610745
+48,Texas,TX,2016,March,1.916007959
+48,Texas,TX,2016,April,1.916007959
+48,Texas,TX,2016,May,2.778211541
+48,Texas,TX,2016,June,3.544614724
+48,Texas,TX,2016,July,2.969812337
+48,Texas,TX,2016,August,2.107608755
+48,Texas,TX,2016,September,2.107608755
+48,Texas,TX,2016,October,1.532806367
+48,Texas,TX,2016,November,1.053804378
+48,Texas,TX,2016,December,1.724407163
+48,Texas,TX,2017,January,0.75054114
+48,Texas,TX,2017,February,1.200865824
+48,Texas,TX,2017,March,1.200865824
+48,Texas,TX,2017,April,1.601154432
+48,Texas,TX,2017,May,1.601154432
+48,Texas,TX,2017,June,2.301659496
+48,Texas,TX,2017,July,2.651912029
+48,Texas,TX,2017,August,1.601154432
+48,Texas,TX,2017,September,1.300937976
+48,Texas,TX,2017,October,2.101515192
+48,Texas,TX,2017,November,4.953571525
+48,Texas,TX,2017,December,5.103679753
+48,Texas,TX,2018,January,3.560419998
+48,Texas,TX,2018,February,2.802182406
+48,Texas,TX,2018,March,2.571414443
+48,Texas,TX,2018,April,3.494486294
+48,Texas,TX,2018,May,3.626353701
+48,Texas,TX,2018,June,3.362618887
+48,Texas,TX,2018,July,3.06591722
+48,Texas,TX,2018,August,2.868116109
+48,Texas,TX,2018,September,2.736248702
+48,Texas,TX,2018,October,2.208779073
+48,Texas,TX,2018,November,1.813176851
+48,Texas,TX,2018,December,2.010977962
+48,Texas,TX,2019,January,1.844202927
+48,Texas,TX,2019,February,1.78471251
+48,Texas,TX,2019,March,2.290381054
+48,Texas,TX,2019,April,2.141655012
+48,Texas,TX,2019,May,2.052419386
+48,Texas,TX,2019,June,2.17140022
+48,Texas,TX,2019,July,2.498597513
+48,Texas,TX,2019,August,2.379616679
+48,Texas,TX,2019,September,1.844202927
+48,Texas,TX,2019,October,2.052419386
+48,Texas,TX,2019,November,1.725222093
+48,Texas,TX,2019,December,1.695476884
+48,Texas,TX,2020,January,1.094266283
+48,Texas,TX,2020,February,1.110125214
+48,Texas,TX,2020,March,1.474880642
+48,Texas,TX,2020,April,2.04580218
+48,Texas,TX,2020,May,3.282798848
+48,Texas,TX,2020,June,2.251968292
+48,Texas,TX,2020,July,1.855495001
+48,Texas,TX,2020,August,1.744482479
+48,Texas,TX,2020,September,1.45902171
+48,Texas,TX,2020,October,1.617611026
+48,Texas,TX,2020,November,0.935676966
+48,Texas,TX,2020,December,0.983253761
+48,Texas,TX,2021,January,1.354502567
+48,Texas,TX,2021,February,1.123621447
+48,Texas,TX,2021,March,1.43146294
+48,Texas,TX,2021,April,2.033569766
+48,Texas,TX,2021,May,1.817232557
+48,Texas,TX,2021,June,1.543205425
+48,Texas,TX,2021,July,2.323752016
+48,Texas,TX,2021,August,1.735641938
+48,Texas,TX,2021,September,1.477447269
+48,Texas,TX,2021,October,2.112725312
+48,Texas,TX,2021,November,1.272884194
+48,Texas,TX,2021,December,0.721738461
+49,Utah,UT,2016,January,1.412349585
+49,Utah,UT,2016,February,2.471611773
+49,Utah,UT,2016,March,1.059262189
+49,Utah,UT,2016,April,3.530873962
+49,Utah,UT,2016,May,2.471611773
+49,Utah,UT,2016,June,2.471611773
+49,Utah,UT,2016,July,2.471611773
+49,Utah,UT,2016,August,2.118524377
+49,Utah,UT,2016,September,3.883961358
+49,Utah,UT,2016,October,1.059262189
+49,Utah,UT,2016,November,1.765436981
+49,Utah,UT,2016,December,1.059262189
+49,Utah,UT,2017,January,0.930944839
+49,Utah,UT,2017,February,0.930944839
+49,Utah,UT,2017,March,0.930944839
+49,Utah,UT,2017,April,0.698208629
+49,Utah,UT,2017,May,3.491043147
+49,Utah,UT,2017,June,2.094625888
+49,Utah,UT,2017,July,1.629153469
+49,Utah,UT,2017,August,1.396417259
+49,Utah,UT,2017,September,NA
+49,Utah,UT,2017,October,1.163681049
+49,Utah,UT,2017,November,0.930944839
+49,Utah,UT,2017,December,0.930944839
+49,Utah,UT,2018,January,2.085747393
+49,Utah,UT,2018,February,0.926998841
+49,Utah,UT,2018,March,1.622247972
+49,Utah,UT,2018,April,1.622247972
+49,Utah,UT,2018,May,2.317497103
+49,Utah,UT,2018,June,2.317497103
+49,Utah,UT,2018,July,1.853997683
+49,Utah,UT,2018,August,3.012746234
+49,Utah,UT,2018,September,1.390498262
+49,Utah,UT,2018,October,1.158748552
+49,Utah,UT,2018,November,1.622247972
+49,Utah,UT,2018,December,NA
+49,Utah,UT,2019,January,0.729829342
+49,Utah,UT,2019,February,NA
+49,Utah,UT,2019,March,0.973105789
+49,Utah,UT,2019,April,0.729829342
+49,Utah,UT,2019,May,NA
+49,Utah,UT,2019,June,0.729829342
+49,Utah,UT,2019,July,0.729829342
+49,Utah,UT,2019,August,0.729829342
+49,Utah,UT,2019,September,1.216382236
+49,Utah,UT,2019,October,0.973105789
+49,Utah,UT,2019,November,0.729829342
+49,Utah,UT,2019,December,NA
+49,Utah,UT,2020,January,0.417765622
+49,Utah,UT,2020,February,NA
+49,Utah,UT,2020,March,0.55702083
+49,Utah,UT,2020,April,0.835531245
+49,Utah,UT,2020,May,0.974786452
+49,Utah,UT,2020,June,0.417765622
+49,Utah,UT,2020,July,1.11404166
+49,Utah,UT,2020,August,0.974786452
+49,Utah,UT,2020,September,0.696276037
+49,Utah,UT,2020,October,0.974786452
+49,Utah,UT,2020,November,0.835531245
+49,Utah,UT,2020,December,0.974786452
+49,Utah,UT,2021,January,1.199756849
+49,Utah,UT,2021,February,1.599675799
+49,Utah,UT,2021,March,1.333063166
+49,Utah,UT,2021,April,1.372311984
+49,Utah,UT,2021,May,1.372311984
+49,Utah,UT,2021,June,1.122800714
+49,Utah,UT,2021,July,1.264223956
+49,Utah,UT,2021,August,1.264223956
+49,Utah,UT,2021,September,0.804506154
+49,Utah,UT,2021,October,0.850262412
+49,Utah,UT,2021,November,NA
+49,Utah,UT,2021,December,0.850262412
+50,Vermont,VT,2016,January,12.85063886
+50,Vermont,VT,2016,February,NA
+50,Vermont,VT,2016,March,7.343222206
+50,Vermont,VT,2016,April,5.507416654
+50,Vermont,VT,2016,May,12.85063886
+50,Vermont,VT,2016,June,22.02966662
+50,Vermont,VT,2016,July,36.71611103
+50,Vermont,VT,2016,August,11.01483331
+50,Vermont,VT,2016,September,9.179027757
+50,Vermont,VT,2016,October,14.68644441
+50,Vermont,VT,2016,November,7.343222206
+50,Vermont,VT,2016,December,11.01483331
+50,Vermont,VT,2017,January,4.141415536
+50,Vermont,VT,2017,February,NA
+50,Vermont,VT,2017,March,5.521887381
+50,Vermont,VT,2017,April,13.80471845
+50,Vermont,VT,2017,May,19.32660583
+50,Vermont,VT,2017,June,27.60943691
+50,Vermont,VT,2017,July,31.75085244
+50,Vermont,VT,2017,August,34.51179613
+50,Vermont,VT,2017,September,16.56566214
+50,Vermont,VT,2017,October,9.663302917
+50,Vermont,VT,2017,November,6.902359226
+50,Vermont,VT,2017,December,9.663302917
+50,Vermont,VT,2018,January,7.687813278
+50,Vermont,VT,2018,February,9.225375934
+50,Vermont,VT,2018,March,13.8380639
+50,Vermont,VT,2018,April,9.225375934
+50,Vermont,VT,2018,May,21.52587718
+50,Vermont,VT,2018,June,23.06343984
+50,Vermont,VT,2018,July,15.37562656
+50,Vermont,VT,2018,August,15.37562656
+50,Vermont,VT,2018,September,6.150250623
+50,Vermont,VT,2018,October,12.30050125
+50,Vermont,VT,2018,November,4.612687967
+50,Vermont,VT,2018,December,6.150250623
+50,Vermont,VT,2019,January,5.041000134
+50,Vermont,VT,2019,February,6.721333513
+50,Vermont,VT,2019,March,5.041000134
+50,Vermont,VT,2019,April,5.041000134
+50,Vermont,VT,2019,May,15.1230004
+50,Vermont,VT,2019,June,25.20500067
+50,Vermont,VT,2019,July,33.60666756
+50,Vermont,VT,2019,August,18.48366716
+50,Vermont,VT,2019,September,5.041000134
+50,Vermont,VT,2019,October,18.48366716
+50,Vermont,VT,2019,November,6.721333513
+50,Vermont,VT,2019,December,10.08200027
+50,Vermont,VT,2020,January,NA
+50,Vermont,VT,2020,February,2.935219701
+50,Vermont,VT,2020,March,5.870439402
+50,Vermont,VT,2020,April,10.76247224
+50,Vermont,VT,2020,May,7.827252537
+50,Vermont,VT,2020,June,27.39538388
+50,Vermont,VT,2020,July,19.56813134
+50,Vermont,VT,2020,August,15.65450507
+50,Vermont,VT,2020,September,12.71928537
+50,Vermont,VT,2020,October,9.784065671
+50,Vermont,VT,2020,November,8.805659104
+50,Vermont,VT,2020,December,7.827252537
+50,Vermont,VT,2021,January,4.484707149
+50,Vermont,VT,2021,February,6.278590008
+50,Vermont,VT,2021,March,8.072472868
+50,Vermont,VT,2021,April,5.532503458
+50,Vermont,VT,2021,May,22.92037147
+50,Vermont,VT,2021,June,27.66251729
+50,Vermont,VT,2021,July,45.41289886
+50,Vermont,VT,2021,August,18.32450305
+50,Vermont,VT,2021,September,9.560610286
+50,Vermont,VT,2021,October,29.86995083
+50,Vermont,VT,2021,November,9.190754101
+50,Vermont,VT,2021,December,6.127169401
+51,Virginia,VA,2016,January,7.143519091
+51,Virginia,VA,2016,February,5.598974422
+51,Virginia,VA,2016,March,9.460336093
+51,Virginia,VA,2016,April,8.301927592
+51,Virginia,VA,2016,May,14.28703818
+51,Virginia,VA,2016,June,13.70783393
+51,Virginia,VA,2016,July,13.12862968
+51,Virginia,VA,2016,August,6.56431484
+51,Virginia,VA,2016,September,6.757382924
+51,Virginia,VA,2016,October,4.247497838
+51,Virginia,VA,2016,November,3.861361671
+51,Virginia,VA,2016,December,3.475225504
+51,Virginia,VA,2017,January,3.186489285
+51,Virginia,VA,2017,February,5.234946683
+51,Virginia,VA,2017,March,4.552127551
+51,Virginia,VA,2017,April,9.559467856
+51,Virginia,VA,2017,May,13.65638265
+51,Virginia,VA,2017,June,12.74595714
+51,Virginia,VA,2017,July,13.88398903
+51,Virginia,VA,2017,August,9.104255101
+51,Virginia,VA,2017,September,6.828191326
+51,Virginia,VA,2017,October,5.007340306
+51,Virginia,VA,2017,November,4.096914796
+51,Virginia,VA,2017,December,3.869308418
+51,Virginia,VA,2018,January,4.472398241
+51,Virginia,VA,2018,February,2.353893811
+51,Virginia,VA,2018,March,4.707787622
+51,Virginia,VA,2018,April,4.001619479
+51,Virginia,VA,2018,May,10.59252215
+51,Virginia,VA,2018,June,12.24024782
+51,Virginia,VA,2018,July,7.767849577
+51,Virginia,VA,2018,August,7.297070815
+51,Virginia,VA,2018,September,5.178566385
+51,Virginia,VA,2018,October,4.943177003
+51,Virginia,VA,2018,November,3.060061954
+51,Virginia,VA,2018,December,2.824672573
+51,Virginia,VA,2019,January,4.676547937
+51,Virginia,VA,2019,February,3.576183717
+51,Virginia,VA,2019,March,3.851274772
+51,Virginia,VA,2019,April,6.602185323
+51,Virginia,VA,2019,May,16.78055436
+51,Virginia,VA,2019,June,11.27873326
+51,Virginia,VA,2019,July,9.353095875
+51,Virginia,VA,2019,August,10.4534601
+51,Virginia,VA,2019,September,8.527822709
+51,Virginia,VA,2019,October,5.226730048
+51,Virginia,VA,2019,November,4.951638993
+51,Virginia,VA,2019,December,3.851274772
+51,Virginia,VA,2020,January,0.973039326
+51,Virginia,VA,2020,February,0.973039326
+51,Virginia,VA,2020,March,3.218514693
+51,Virginia,VA,2020,April,3.592760587
+51,Virginia,VA,2020,May,9.5806949
+51,Virginia,VA,2020,June,13.8470981
+51,Virginia,VA,2020,July,23.0535471
+51,Virginia,VA,2020,August,9.954940794
+51,Virginia,VA,2020,September,4.416101555
+51,Virginia,VA,2020,October,3.667609766
+51,Virginia,VA,2020,November,5.389140881
+51,Virginia,VA,2020,December,6.212481849
+51,Virginia,VA,2021,January,6.055898027
+51,Virginia,VA,2021,February,3.828441281
+51,Virginia,VA,2021,March,7.726490586
+51,Virginia,VA,2021,April,6.773887102
+51,Virginia,VA,2021,May,9.396036948
+51,Virginia,VA,2021,June,8.959011974
+51,Virginia,VA,2021,July,10.51028957
+51,Virginia,VA,2021,August,6.666526529
+51,Virginia,VA,2021,September,4.564468615
+51,Virginia,VA,2021,October,11.09395787
+51,Virginia,VA,2021,November,5.149094368
+51,Virginia,VA,2021,December,2.059637747
+53,Washington,WA,2016,January,6.288678283
+53,Washington,WA,2016,February,5.357022241
+53,Washington,WA,2016,March,5.12410823
+53,Washington,WA,2016,April,4.89119422
+53,Washington,WA,2016,May,5.357022241
+53,Washington,WA,2016,June,5.589936251
+53,Washington,WA,2016,July,4.425366199
+53,Washington,WA,2016,August,3.959538178
+53,Washington,WA,2016,September,3.260796147
+53,Washington,WA,2016,October,3.726624168
+53,Washington,WA,2016,November,3.493710157
+53,Washington,WA,2016,December,3.726624168
+53,Washington,WA,2017,January,4.194481321
+53,Washington,WA,2017,February,3.355585057
+53,Washington,WA,2017,March,5.033377585
+53,Washington,WA,2017,April,3.775033189
+53,Washington,WA,2017,May,3.775033189
+53,Washington,WA,2017,June,4.404205387
+53,Washington,WA,2017,July,5.452825717
+53,Washington,WA,2017,August,3.775033189
+53,Washington,WA,2017,September,3.984757255
+53,Washington,WA,2017,October,4.613929453
+53,Washington,WA,2017,November,3.775033189
+53,Washington,WA,2017,December,2.726412859
+53,Washington,WA,2018,January,3.593191536
+53,Washington,WA,2018,February,2.747734704
+53,Washington,WA,2018,March,2.536370496
+53,Washington,WA,2018,April,4.22728416
+53,Washington,WA,2018,May,4.015919952
+53,Washington,WA,2018,June,2.959098912
+53,Washington,WA,2018,July,4.650012576
+53,Washington,WA,2018,August,4.015919952
+53,Washington,WA,2018,September,4.22728416
+53,Washington,WA,2018,October,4.015919952
+53,Washington,WA,2018,November,2.325006288
+53,Washington,WA,2018,December,3.17046312
+53,Washington,WA,2019,January,3.62739408
+53,Washington,WA,2019,February,4.030437867
+53,Washington,WA,2019,March,3.224350293
+53,Washington,WA,2019,April,3.224350293
+53,Washington,WA,2019,May,2.821306507
+53,Washington,WA,2019,June,3.0228284
+53,Washington,WA,2019,July,3.425872187
+53,Washington,WA,2019,August,3.0228284
+53,Washington,WA,2019,September,2.015218933
+53,Washington,WA,2019,October,2.015218933
+53,Washington,WA,2019,November,2.41826272
+53,Washington,WA,2019,December,0.806087573
+53,Washington,WA,2020,January,0.739776292
+53,Washington,WA,2020,February,0.493184194
+53,Washington,WA,2020,March,1.890539412
+53,Washington,WA,2020,April,0.821973657
+53,Washington,WA,2020,May,0.986368389
+53,Washington,WA,2020,June,0.904171023
+53,Washington,WA,2020,July,1.315157852
+53,Washington,WA,2020,August,3.041302532
+53,Washington,WA,2020,September,1.561749949
+53,Washington,WA,2020,October,1.397355218
+53,Washington,WA,2020,November,1.479552583
+53,Washington,WA,2020,December,1.808342046
+53,Washington,WA,2021,January,1.756481416
+53,Washington,WA,2021,February,1.553810484
+53,Washington,WA,2021,March,1.148468618
+53,Washington,WA,2021,April,1.037873294
+53,Washington,WA,2021,May,1.037873294
+53,Washington,WA,2021,June,0.71353789
+53,Washington,WA,2021,July,1.386119689
+53,Washington,WA,2021,August,0.875444014
+53,Washington,WA,2021,September,0.802490346
+53,Washington,WA,2021,October,1.172419992
+53,Washington,WA,2021,November,1.094258659
+53,Washington,WA,2021,December,0.390806664
+54,West Virginia,WV,2016,January,4.753021139
+54,West Virginia,WV,2016,February,2.614161626
+54,West Virginia,WV,2016,March,5.703625367
+54,West Virginia,WV,2016,April,5.703625367
+54,West Virginia,WV,2016,May,4.990672196
+54,West Virginia,WV,2016,June,6.891880652
+54,West Virginia,WV,2016,July,4.040067968
+54,West Virginia,WV,2016,August,7.367182766
+54,West Virginia,WV,2016,September,4.277719025
+54,West Virginia,WV,2016,October,2.851812683
+54,West Virginia,WV,2016,November,3.802416911
+54,West Virginia,WV,2016,December,1.901208456
+54,West Virginia,WV,2017,January,6.039870249
+54,West Virginia,WV,2017,February,3.552864853
+54,West Virginia,WV,2017,March,4.618724308
+54,West Virginia,WV,2017,April,8.882162131
+54,West Virginia,WV,2017,May,10.30330807
+54,West Virginia,WV,2017,June,13.85617293
+54,West Virginia,WV,2017,July,13.50088644
+54,West Virginia,WV,2017,August,13.50088644
+54,West Virginia,WV,2017,September,6.039870249
+54,West Virginia,WV,2017,October,5.684583764
+54,West Virginia,WV,2017,November,5.684583764
+54,West Virginia,WV,2017,December,3.552864853
+54,West Virginia,WV,2018,January,2.766844898
+54,West Virginia,WV,2018,February,2.766844898
+54,West Virginia,WV,2018,March,6.571256632
+54,West Virginia,WV,2018,April,5.879545407
+54,West Virginia,WV,2018,May,12.10494643
+54,West Virginia,WV,2018,June,16.946925
+54,West Virginia,WV,2018,July,13.48836888
+54,West Virginia,WV,2018,August,7.262967856
+54,West Virginia,WV,2018,September,6.22540102
+54,West Virginia,WV,2018,October,7.608823468
+54,West Virginia,WV,2018,November,5.533689795
+54,West Virginia,WV,2018,December,4.150267346
+54,West Virginia,WV,2019,January,4.654716974
+54,West Virginia,WV,2019,February,3.878930812
+54,West Virginia,WV,2019,March,2.327358487
+54,West Virginia,WV,2019,April,8.145754704
+54,West Virginia,WV,2019,May,17.45518865
+54,West Virginia,WV,2019,June,14.352044
+54,West Virginia,WV,2019,July,6.982075461
+54,West Virginia,WV,2019,August,4.266823893
+54,West Virginia,WV,2019,September,3.878930812
+54,West Virginia,WV,2019,October,3.49103773
+54,West Virginia,WV,2019,November,2.715251568
+54,West Virginia,WV,2019,December,1.163679243
+54,West Virginia,WV,2020,January,2.441644692
+54,West Virginia,WV,2020,February,1.464986815
+54,West Virginia,WV,2020,March,2.92997363
+54,West Virginia,WV,2020,April,2.92997363
+54,West Virginia,WV,2020,May,11.71989452
+54,West Virginia,WV,2020,June,15.13819709
+54,West Virginia,WV,2020,July,18.55649966
+54,West Virginia,WV,2020,August,5.85994726
+54,West Virginia,WV,2020,September,5.371618322
+54,West Virginia,WV,2020,October,5.85994726
+54,West Virginia,WV,2020,November,4.883289384
+54,West Virginia,WV,2020,December,1.953315753
+54,West Virginia,WV,2021,January,2.862609077
+54,West Virginia,WV,2021,February,2.385507564
+54,West Virginia,WV,2021,March,4.293913616
+54,West Virginia,WV,2021,April,7.25073467
+54,West Virginia,WV,2021,May,12.79541412
+54,West Virginia,WV,2021,June,20.04614879
+54,West Virginia,WV,2021,July,21.81715513
+54,West Virginia,WV,2021,August,8.983534465
+54,West Virginia,WV,2021,September,8.983534465
+54,West Virginia,WV,2021,October,9.714982513
+54,West Virginia,WV,2021,November,6.69998794
+54,West Virginia,WV,2021,December,2.344995779
+55,Wisconsin,WI,2016,January,3.656482601
+55,Wisconsin,WI,2016,February,3.427952438
+55,Wisconsin,WI,2016,March,4.799133414
+55,Wisconsin,WI,2016,April,12.34062878
+55,Wisconsin,WI,2016,May,23.31007658
+55,Wisconsin,WI,2016,June,34.50805455
+55,Wisconsin,WI,2016,July,26.28096869
+55,Wisconsin,WI,2016,August,16.68270187
+55,Wisconsin,WI,2016,September,12.56915894
+55,Wisconsin,WI,2016,October,13.48327959
+55,Wisconsin,WI,2016,November,7.998555689
+55,Wisconsin,WI,2016,December,5.484723901
+55,Wisconsin,WI,2017,January,3.758880355
+55,Wisconsin,WI,2017,February,3.341226982
+55,Wisconsin,WI,2017,March,4.176533728
+55,Wisconsin,WI,2017,April,8.561894142
+55,Wisconsin,WI,2017,May,13.7825613
+55,Wisconsin,WI,2017,June,35.29171
+55,Wisconsin,WI,2017,July,30.90634958
+55,Wisconsin,WI,2017,August,11.27664106
+55,Wisconsin,WI,2017,September,10.44133432
+55,Wisconsin,WI,2017,October,7.308934023
+55,Wisconsin,WI,2017,November,4.803013787
+55,Wisconsin,WI,2017,December,6.264800591
+55,Wisconsin,WI,2018,January,7.413610378
+55,Wisconsin,WI,2018,February,3.032840609
+55,Wisconsin,WI,2018,March,4.043787479
+55,Wisconsin,WI,2018,April,6.402663508
+55,Wisconsin,WI,2018,May,14.49023847
+55,Wisconsin,WI,2018,June,27.80103892
+55,Wisconsin,WI,2018,July,24.09423373
+55,Wisconsin,WI,2018,August,9.940977552
+55,Wisconsin,WI,2018,September,8.593048392
+55,Wisconsin,WI,2018,October,9.098521827
+55,Wisconsin,WI,2018,November,3.538314044
+55,Wisconsin,WI,2018,December,3.201331754
+55,Wisconsin,WI,2019,January,2.120681951
+55,Wisconsin,WI,2019,February,1.36329554
+55,Wisconsin,WI,2019,March,4.089886619
+55,Wisconsin,WI,2019,April,6.513523134
+55,Wisconsin,WI,2019,May,12.42113714
+55,Wisconsin,WI,2019,June,28.9321609
+55,Wisconsin,WI,2019,July,26.05409254
+55,Wisconsin,WI,2019,August,13.02704627
+55,Wisconsin,WI,2019,September,9.846023343
+55,Wisconsin,WI,2019,October,9.846023343
+55,Wisconsin,WI,2019,November,4.392841184
+55,Wisconsin,WI,2019,December,1.969204669
+55,Wisconsin,WI,2020,January,1.306707674
+55,Wisconsin,WI,2020,February,1.031611322
+55,Wisconsin,WI,2020,March,2.475867172
+55,Wisconsin,WI,2020,April,4.263993464
+55,Wisconsin,WI,2020,May,11.21017636
+55,Wisconsin,WI,2020,June,17.05597385
+55,Wisconsin,WI,2020,July,11.48527272
+55,Wisconsin,WI,2020,August,8.046568311
+55,Wisconsin,WI,2020,September,5.845797491
+55,Wisconsin,WI,2020,October,4.332767552
+55,Wisconsin,WI,2020,November,2.613415349
+55,Wisconsin,WI,2020,December,1.994448556
+55,Wisconsin,WI,2021,January,2.01801414
+55,Wisconsin,WI,2021,February,1.210808484
+55,Wisconsin,WI,2021,March,2.556151243
+55,Wisconsin,WI,2021,April,6.527135166
+55,Wisconsin,WI,2021,May,11.68668011
+55,Wisconsin,WI,2021,June,24.2436449
+55,Wisconsin,WI,2021,July,26.41781337
+55,Wisconsin,WI,2021,August,11.20566017
+55,Wisconsin,WI,2021,September,6.072340988
+55,Wisconsin,WI,2021,October,9.448887718
+55,Wisconsin,WI,2021,November,3.838610636
+55,Wisconsin,WI,2021,December,2.893721864
+56,Wyoming,WY,2016,January,NA
+56,Wyoming,WY,2016,February,NA
+56,Wyoming,WY,2016,March,NA
+56,Wyoming,WY,2016,April,NA
+56,Wyoming,WY,2016,May,NA
+56,Wyoming,WY,2016,June,NA
+56,Wyoming,WY,2016,July,NA
+56,Wyoming,WY,2016,August,NA
+56,Wyoming,WY,2016,September,NA
+56,Wyoming,WY,2016,October,NA
+56,Wyoming,WY,2016,November,NA
+56,Wyoming,WY,2016,December,NA
+56,Wyoming,WY,2017,January,NA
+56,Wyoming,WY,2017,February,NA
+56,Wyoming,WY,2017,March,NA
+56,Wyoming,WY,2017,April,NA
+56,Wyoming,WY,2017,May,NA
+56,Wyoming,WY,2017,June,NA
+56,Wyoming,WY,2017,July,NA
+56,Wyoming,WY,2017,August,NA
+56,Wyoming,WY,2017,September,NA
+56,Wyoming,WY,2017,October,NA
+56,Wyoming,WY,2017,November,NA
+56,Wyoming,WY,2017,December,NA
+56,Wyoming,WY,2018,January,NA
+56,Wyoming,WY,2018,February,NA
+56,Wyoming,WY,2018,March,NA
+56,Wyoming,WY,2018,April,NA
+56,Wyoming,WY,2018,May,NA
+56,Wyoming,WY,2018,June,NA
+56,Wyoming,WY,2018,July,NA
+56,Wyoming,WY,2018,August,NA
+56,Wyoming,WY,2018,September,NA
+56,Wyoming,WY,2018,October,NA
+56,Wyoming,WY,2018,November,NA
+56,Wyoming,WY,2018,December,NA
+56,Wyoming,WY,2019,January,NA
+56,Wyoming,WY,2019,February,NA
+56,Wyoming,WY,2019,March,NA
+56,Wyoming,WY,2019,April,NA
+56,Wyoming,WY,2019,May,NA
+56,Wyoming,WY,2019,June,NA
+56,Wyoming,WY,2019,July,NA
+56,Wyoming,WY,2019,August,NA
+56,Wyoming,WY,2019,September,NA
+56,Wyoming,WY,2019,October,NA
+56,Wyoming,WY,2019,November,NA
+56,Wyoming,WY,2019,December,NA
+56,Wyoming,WY,2020,January,NA
+56,Wyoming,WY,2020,February,NA
+56,Wyoming,WY,2020,March,NA
+56,Wyoming,WY,2020,April,NA
+56,Wyoming,WY,2020,May,NA
+56,Wyoming,WY,2020,June,NA
+56,Wyoming,WY,2020,July,3.907318407
+56,Wyoming,WY,2020,August,NA
+56,Wyoming,WY,2020,September,NA
+56,Wyoming,WY,2020,October,NA
+56,Wyoming,WY,2020,November,NA
+56,Wyoming,WY,2020,December,NA
+56,Wyoming,WY,2021,April,NA
+56,Wyoming,WY,2021,May,NA
+56,Wyoming,WY,2021,June,NA
+56,Wyoming,WY,2021,July,NA
+56,Wyoming,WY,2021,August,NA
+56,Wyoming,WY,2021,September,NA
+56,Wyoming,WY,2021,October,NA
+56,Wyoming,WY,2021,November,NA
+56,Wyoming,WY,2021,December,NA
